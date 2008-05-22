@@ -1,0 +1,17 @@
+~D390~^~A.V. Lentoc, L.B. Dimannahan, O.N. Gonzalez~^~Vitamin B6 Content of Some Phillipine Foods. Raw Foods~^1971^~Philippine Journal of Nutrition~^~24~^~~^~209~^~~
+~D4053~^~A.C. Shovic~^~Nutrient composition of abiyuch and rowal fruits~^1999^~Tropical Science~^~39~^~~^~159~^~161~
+~S101~^~California Pistachio Commission~^~Nutrition Labeling Database for California Pistachios~^1994^~~^~~^~~^~~^~~
+~S141~^~Almond Board of California~^~Nutrient Content of Almonds~^1999^~~^~Modesto~^~CA~^~~^~~
+~S18~^~Nutrient Data Laboratory, ARS, USDA~^~National Food and Nutrient Analysis Program Wave 1a~^1998^~~^~Beltsville~^~MD~^~~^~~
+~S221~^~National Cattlemen's Beef Association (NCBA)~^~Beef study, Texas A&M University~^1992^~~^~Chicago~^~IL~^~~^~~
+~S301~^~National Potato Promotion Board~^~National Potato Promotion  Board Potato Study~^2000^~~^~~^~~^~~^~~
+~S39~^~Nutrient Data Laboratory, ARS, USDA~^~National Food and Analysis Program Wave 0~^1998^~~^~Beltsville~^~MD~^~~^~~
+~S77~^~International Nut Council~^~Nutrient Content of Macadamia Nuts~^1999^~~^~~^~~^~~^~~
+~S79~^~California Walnut Commission~^~Nutrient Content of Walnuts~^1999^~~^~Modesto~^~CA~^~~^~~
+~S81~^~Nutrient Data Laboratory, ARS, USDA~^~Nutrient Analysis of Selected Foods, University of Georgia~^1987^~~^~Beltsville~^~MD~^~~^~~
+~S83~^~Hazelnut Marketing Board~^~Nutrient Content of Hazelnuts~^1999^~~^~Aurora~^~OR~^~~^~~
+~S84~^~Nutrient Data Laboratory, ARS, USDA~^~Determination of the Tocopherol Content of Selected Foods~^1992^~~^~Beltsville~^~MD~^~~^~~
+~S85~^~Pecan Shellers Association~^~Nutrient Content of Pecans~^1999^~~^~~^~~^~~^~~
+~S86~^~California Pistachio Commission~^~Nutrient Content of Pistachio Nuts~^1999^~~^~~^~~^~~^~~
+~S87~^~Nutrient Data Laboratory, ARS, USDA~^~NDL Report Vitamin E 1997~^1997^~~^~Beltsville~^~MD~^~~^~~
+~S89~^~Walnut Marketing Board~^~Walnut Nutrition Study~^1987^~~^~~^~~^~~^~~

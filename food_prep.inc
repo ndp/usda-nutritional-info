@@ -1,0 +1,1 @@
+<?	global $gramwts;	global $Msre_Descs;	$sql = "SELECT Gm_wt,Msre_Desc FROM weight,measure WHERE ndb_no=\"$ndb\" AND weight.msre_no=measure.msre_no;";	$result = mysql_query($sql, $conn);		while ($row = mysql_fetch_row($result)) { 		$gramwts[]		= $row[0];		$Msre_Descs[] 	= $row[1];	}	?>

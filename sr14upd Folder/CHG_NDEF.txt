@@ -1,0 +1,34 @@
+~221~^~g~^~ALC~^~Alcohol, ethyl~
+~324~^~IU~^~VITD-~^~Vitamin D~
+~401~^~mg~^~VITC~^~Vitamin C, total ascorbic acid~
+~405~^~mg~^~RIBF~^~Riboflavin~
+~417~^~mcg~^~FOL~^~Folate, total~
+~512~^~g~^~HISTN_G~^~Histidine~
+~606~^~g~^~FASAT~^~Fatty acids, total saturated~
+~607~^~g~^~F4D0~^~4:0~
+~608~^~g~^~F6D0~^~6:0~
+~609~^~g~^~F8D0~^~8:0~
+~610~^~g~^~F10D0~^~10:0~
+~611~^~g~^~F12D0~^~12:0~
+~612~^~g~^~F14D0~^~14:0~
+~613~^~g~^~F16D0~^~16:0~
+~614~^~g~^~F18D0~^~18:0~
+~615~^~g~^~F20D0~^~20:0~
+~617~^~g~^~F18D1~^~18:1 undifferentiated~
+~618~^~g~^~F18D2~^~18:2 undifferentiated~
+~619~^~g~^~F18D3~^~18:3 undifferentiated~
+~620~^~g~^~F20D4~^~20:4 undifferentiated~
+~621~^~g~^~F22D6~^~22:6 n-3~
+~624~^~g~^~F22D0~^~22:0~
+~625~^~g~^~F14D1~^~14:1~
+~626~^~g~^~F16D1~^~16:1 undifferentiated~
+~627~^~g~^~F18D4~^~18:4~
+~628~^~g~^~F20D1~^~20:1~
+~629~^~g~^~F20D5~^~20:5 n-3~
+~630~^~g~^~F22D1~^~22:1 undifferentiated~
+~631~^~g~^~F22D5~^~22:5 n-3~
+~645~^~g~^~FAMS~^~Fatty acids, total monounsaturated~
+~646~^~g~^~FAPU~^~Fatty acids, total polyunsaturated~
+~652~^~g~^~F15D0~^~15:0~
+~653~^~g~^~F17D0~^~17:0~
+~654~^~g~^~F24D0~^~24:0~

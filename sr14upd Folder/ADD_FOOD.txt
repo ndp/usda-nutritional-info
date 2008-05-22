@@ -1,0 +1,18 @@
+~04628~^~0400~^~Margarine, 80% fat, stick, includes regular and hydrogenated corn and soybean oils~^~MARGARINE,80% FAT,STK,INCL REG & HYDR CORN & SOYBN OILS~^~~^~~^~~^~~^0^~~^^4.27^8.84^3.87
+~04629~^~0400~^~Margarine, 70% vegetable oil spread, soybean and soybean(hydrogenated)~^~MARGARINE,70% VEG OIL SPRD,SOYBN & SOYBEAN(HYDROGENATED)~^~~^~~^~~^~~^0^~~^6.38^4.27^8.84^3.87
+~06178~^~0600~^~USDA Commodity, salsa~^~USDA COMMODITY,SALSA~^~~^~~^~~^~~^0^~~^^^^
+~08147~^~0800~^~Cereals ready-to-eat, wheat, shredded, plain, sugar and salt free, single brand~^~CEREALS RTE,WHEAT,SHREDDED,PLN,SUGAR&SALT FREE,SINGLE BRAND~^~~^~~^~Y~^~~^0^~~^^^^
+~09427~^~0900~^~Abiyuch, raw~^~ABIYUCH,RAW~^~~^~~^~~^~~^^~Crateva religiosa~^6.25^3.36^8.37^3.60
+~09428~^~0900~^~Rowal, raw~^~ROWAL,RAW~^~~^~~^~~^~~^^~Pangium edule~^6.25^3.36^8.37^3.60
+~11353~^~1100~^~Potato, russet, flesh and skin, raw~^~POTATO,RUSSET,FLESH & SKN,RAW~^~~^~~^~~^~~^0^~Solanum tuberosum~^6.25^2.78^8.37^4.03
+~11354~^~1100~^~Potato, white, flesh and skin, raw~^~POTATO,WHITE,FLESH & SKN,RAW~^~~^~~^~~^~~^0^~Solanum tuberosum~^6.25^2.78^8.37^4.03
+~11355~^~1100~^~Potato, red, flesh and skin, raw~^~POTATO,RED,FLESH & SKN,RAW~^~~^~~^~~^~~^0^~~^^2.78^8.37^3.84
+~14119~^~1400~^~Mixed vegetable and fruit juice drink~^~MXD VEG&FRUIT JUC DRK~^~~^~~^~Y~^~~^0^~~^^^^
+~14148~^~1400~^~Carbonated beverage, cola, with higher caffeine~^~CARBONATED BEV,COLA,W/HIGHER CAFFEINE~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^^^^
+~14151~^~1400~^~Carbonated beverage, low calorie, other than cola or pepper, with aspartame, with caffeine~^~CARBON BEV,LO CAL,OTHER THAN COLA OR PEPPER,W/ASPRT,W/CAFFEN~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^6.25^4.00^9.00^4.00
+~14353~^~1400~^~Tea, instant, unsweetened, powder, decaffeinated~^~TEA,INST,UNSWTND,PDR,DECAFFEINATED~^~~^~~^~Y~^~~^0^~~^6.25^2.44^3.35^3.57
+~14356~^~1400~^~Tea, instant, sweetened with sodium saccharin, lemon-flavored, powder, decaffeinated~^~TEA,INST,SWTND W/NA SACCHARIN,LEMON-FLAV,PDR,DECAFFEINATED~^~~^~~^~Y~^~~^0^~~^6.25^2.44^8.37^3.80
+~14357~^~1400~^~Tea, instant, sweetened with sugar, lemon-flavored, without added ascorbic acid, powder,  decaffeinated~^~TEA,INST,SWTND W/SUGAR,LEMN-FLAV,WO/ VIT C,PDR,DECAFFEINATED~^~~^~~^~Y~^~~^0^~~^^^^
+~14383~^~1400~^~Fruit-flavored thirst quencher beverage, low calorie~^~FRUIT-FLAVORED THIRST QUENCHER BEV,LO CAL~^~~^~~^~Y~^~~^0^~~^^^^
+~14552~^~1400~^~Carbonated beverage, chocolate-flavored soda~^~CARBONATED BEV,CHOCOLATE-FLAVORED SODA~^~soft drink, pop~^~~^~Y~^~~^0^~~^^^^
+~14553~^~1400~^~Wine, non-alcoholic~^~WINE,NON-ALCOHOLIC~^~~^~~^~Y~^~~^0^~~^^^^

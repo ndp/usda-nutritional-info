@@ -1,0 +1,15 @@
+~14205~^~01~^~N~^~205~^~Contains other proximate components.~
+~14225~^~01~^~N~^~205~^~Contains other proximate components.~
+~14230~^~01~^~N~^~205~^~Contains other proximate components.~
+~14231~^~01~^~N~^~205~^~Contains other proximate components.~
+~14232~^~01~^~N~^~205~^~Contains other proximate components.~
+~14273~^~01~^~N~^~205~^~Contains other proximate components such as acids.~
+~14274~^~01~^~N~^~205~^~Contains other proximate components such as acids.~
+~14275~^~01~^~N~^~205~^~Contains other proximate components.~
+~14377~^~01~^~N~^~205~^~Contains other proximate components such as acids and non-protein nitrogen.~
+~19275~^~01~^~N~^~205~^~Contains other proximate components.~
+~19276~^~01~^~N~^~205~^~Contains other proximate components.~
+~19277~^~01~^~N~^~205~^~Contains other proximate components.~
+~19278~^~01~^~N~^~205~^~Contains other proximate components.~
+~19284~^~01~^~N~^~205~^~Contains other proximate components.~
+~19290~^~01~^~N~^~205~^~Contains other proximate components such as acids.~

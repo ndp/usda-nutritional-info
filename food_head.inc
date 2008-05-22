@@ -1,0 +1,1 @@
+<?	global $gramwts;	global $Msre_Descs;	echo "<table border=\"2\">\n<tr>";	echo "<th>Nutrient</th>";		reset($gramwts);	while (list($key,$value)=each($gramwts)) {		echo "<th>";		echo $Msre_Descs[$key];		echo " (".$value."g)";		echo "</th>";	}?></tr>

@@ -1,0 +1,38 @@
+~A~^~Analytical data~
+~AS~^~Analytical data; derived by summation of components with source code 1 or 7~
+~BD~^~Based on same food; Drained solids from solids and liquids or vice versa (canned fruits and vegetables)~
+~BFAN~^~Based on another form of the food or similar food; Concentration adjustment; Ash; Retention factors not used~
+~BFCN~^~Based on another form of the food or similar food; Concentration adjustment; Carbohydrate; Retention factors not used~
+~BFFN~^~Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used~
+~BFNN~^~Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used~
+~BFPN~^~Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used~
+~BFSN~^~Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used~
+~BFSY~^~Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors used~
+~BFYN~^~Based on another form of the food or similar food; Concentration adjustment; Yield; Retention factors not used~
+~BFZN~^~Based on another form of the food or similar food; Concentration adjustment; No adjustment; Retention factors not used~
+~BFZY~^~Based on another form of the food or similar food; Concentration adjustment; No adjustment; Retention factors used~
+~CAFN~^~Calculated from different food; From average values for food category; Fat; Retention factors not used~
+~CASN~^~Calculated from different food; From average values for food category; Solids; Retention factors not used~
+~CAZN~^~Calculated from different food; From average values for food category; No adjustment; Retention factors not used~
+~FLA~^~Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data~
+~FLC~^~Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Claim on label/serving~
+~FLM~^~Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Manuf. Calc. data/100~
+~JA~^~Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13~
+~LC~^~Label claim (back calculated from label by NDL staff; Calculated from label claim/serving (g or %RDI)~
+~MA~^~Manufacturer supplied(industry or trade association); Analytical data, incomplete documentation~
+~MC~^~Manufacturer supplied; Calculated by manufacturer or unknown if analytical or calculated~
+~ML~^~Manufacturer supplied; Value upon which manufacturer based label claim for fortified/enriched nutrient~
+~NC~^~Nutrient that is based on other nutrient/s; calculated rather than analyzed~
+~NR~^~Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298~
+~O~^~Other procedure used from imputing~
+~PAE~^~Based on physical composition; Derived from analytical data; Estimated physical composition~
+~PAK~^~Based on physical composition; Derived from analytical data; Known physical composition~
+~PIE~^~Based on physical composition; Derived from imputed data; Estimated physical composition~
+~RA~^~Recipe; Approximate ingredient proportions (ex. combination of several recipes)~
+~RC~^~Recipe; Cookbook~
+~RF~^~Recipe; Formulary of standard products (formulary or standards of identity)~
+~RK~^~Recipe; Known formulation (dissection data or proprietary formulation)~
+~RP~^~Recipe; Per package directions (ex. refrigerated dough, toast, cake mix)~
+~S~^~Product standard, such as enrichment level specified in CFR or AMS commodity standard~
+~T~^~Taken from another source--other tables of food composition~
+~Z~^~Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)~

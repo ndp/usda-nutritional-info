@@ -1,0 +1,853 @@
+~02001~^~0200~^~Spices, allspice, ground~^~ALLSPICE,GROUND~^~~^~~^~Y~^~~^0^~Pimenta dioica~^6.25^3.36^8.37^2.35
+~02004~^~0200~^~Spices, bay leaf~^~SPICES,BAY LEAF~^~~^~~^~~^~~^0^~Laurus nobilis~^6.25^2.44^8.37^3.00
+~02012~^~0200~^~Spices, coriander leaf, dried~^~CORIANDER LEAF,DRIED~^~cilantro, Chinese parsley~^~~^~Y~^~~^0^~Coriandrum sativum~^6.25^2.44^8.37^3.57
+~02023~^~0200~^~Spices, marjoram, dried~^~MARJORAM,DRIED~^~~^~~^~Y~^~~^0^~Origanum majorana~^6.25^2.44^8.37^3.00
+~02047~^~0200~^~Salt, table~^~SALT,TABLE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~02048~^~0200~^~Vinegar, cider~^~VINEGAR,CIDER~^~~^~~^~Y~^~~^0^~~^0.00^^^2.40
+~02055~^~0200~^~Horseradish, prepared~^~HORSERADISH,PREPARED~^~~^~~^~Y~^~~^0^~~^6.25^2.78^8.37^3.44
+~02063~^~0200~^~Rosemary, fresh~^~ROSEMARY,FRESH~^~~^~~^~~^~Stems~^35^~Rosmarinus officinalis~^6.25^2.44^8.37^3.57
+~03002~^~0300~^~Babyfood, meat, beef, strained~^~BABYFOOD,MEAT,BF,STR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03003~^~0300~^~Babyfood, meat, beef, junior~^~BABYFOOD,MEAT,BEEF,JUNIOR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03005~^~0300~^~Babyfood, meat, veal, strained~^~BABYFOOD,MEAT,VEAL,STR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03006~^~0300~^~Babyfood, meat, veal, junior~^~BABYFOOD,MEAT,VEAL,JUNIOR~^~~^~~^~~^~~^0^~~^6.25^4.27^9.02^
+~03007~^~0300~^~Babyfood, meat, pork, strained~^~BABYFOOD,MEAT,PORK,STR~^~~^~~^~~^~~^0^~~^6.25^4.27^9.02^
+~03008~^~0300~^~Babyfood, meat, ham, strained~^~BABYFOOD,MEAT,HAM,STR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03009~^~0300~^~Babyfood, meat, ham, junior~^~BABYFOOD,MEAT,HAM,JUNIOR~^~~^~~^~~^~~^0^~~^6.25^4.27^9.02^
+~03010~^~0300~^~Babyfood, meat, lamb, strained~^~BABYFOOD,MEAT,LAMB,STR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03011~^~0300~^~Babyfood, meat, lamb, junior~^~BABYFOOD,MEAT,LAMB,JUNIOR~^~~^~~^~~^~~^0^~~^6.25^4.27^9.02^
+~03012~^~0300~^~Babyfood, meat, chicken, strained~^~BABYFOOD,MEAT,CHICK,STR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03013~^~0300~^~Babyfood, meat, chicken, junior~^~BABYFOOD,MEAT,CHICK,JR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03015~^~0300~^~Babyfood, meat, turkey, strained~^~BABYFOOD,MEAT,TURKEY,STR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03016~^~0300~^~Babyfood, meat, turkey, junior~^~BABYFOOD,MEAT,TURKEY,JR~^~~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^
+~03681~^~0300~^~Babyfood, cereal, barley, prepared with whole milk~^~BABYFOOD,CRL,BARLEY,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03682~^~0300~^~Babyfood, cereal, high protein, prepared with whole milk~^~BABYFOOD,CRL,HI PROT,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03685~^~0300~^~Babyfood, cereal, mixed, prepared with whole milk~^~BABYFOOD,CRL,MXD,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03686~^~0300~^~Babyfood, cereal, mixed, with bananas, prepared with whole milk~^~BABYFOOD,CRL,MXD,W/BANANAS,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03689~^~0300~^~Babyfood, cereal, oatmeal, prepared with whole milk~^~BABYFOOD,CRL,OATMEAL,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03690~^~0300~^~Babyfood, cereal, oatmeal, with bananas, prepared with whole milk~^~BABYFOOD,CRL,OATMEAL,W/BANANAS,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03693~^~0300~^~Babyfood, cereal, oatmeal, with honey, prepared with whole milk~^~BABYFOOD,CRL,OATMEAL,W/HONEY,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03694~^~0300~^~Babyfood, cereal, rice, prepared with whole milk~^~BABYFOOD,CRL,RICE,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03696~^~0300~^~Babyfood, cereal, rice, with honey, prepared with whole milk~^~BABYFOOD,CRL,RICE,W/HONEY,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03704~^~0300~^~Babyfood, cereal, mixed, with honey, prepared with whole milk~^~BABYFOOD,CRL,MXD,W/HONEY,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03711~^~0300~^~Babyfood, cereal, high protein, with apple and orange, prepared with whole milk~^~BABYFOOD,CRL,HI PROT,W/APPL&ORANGE,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~03712~^~0300~^~Babyfood, cereal, rice, with bananas, prepared with whole milk~^~BABYFOOD,CRL,RICE,W/BANANAS,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~04001~^~0400~^~Fat, beef tallow~^~FAT,BEEF TALLOW~^~~^~~^~Y~^~~^0^~~^0.00^^9.02^
+~04002~^~0400~^~Lard~^~LARD~^~~^~~^~Y~^~~^0^~~^0.00^^9.02^
+~04031~^~0400~^~Shortening, household, soybean (hydrogenated)-cottonseed (hydrogenated)~^~SHORTENING,HOUSEHOLD,SOYBN (HYDR) -COTTONSEED (HYDR)~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04034~^~0400~^~Oil, soybean, salad or cooking, (hydrogenated)~^~OIL,SOYBN,SALAD OR COOKING,(HYDR)~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04037~^~0400~^~Oil, vegetable, rice bran~^~OIL,VEGETABLE,RICE BRAN~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04038~^~0400~^~Oil, wheat germ~^~OIL,WHEAT GERM~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04042~^~0400~^~Oil, peanut, salad or cooking~^~OIL,PNUT,SALAD OR COOKING~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04044~^~0400~^~Oil, soybean, salad or cooking~^~OIL,SOYBN,SALAD OR COOKING~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04047~^~0400~^~Vegetable oil, coconut~^~VEGETABLE OIL,COCONUT~^~~^~~^~Y~^~~^0^~~^0.00^^8.62^
+~04053~^~0400~^~Oil, olive, salad or cooking~^~OIL,OLIVE,SALAD OR COOKING~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04055~^~0400~^~Oil, vegetable, palm~^~OIL,VEGETABLE,PALM~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04058~^~0400~^~Oil, sesame, salad or cooking~^~OIL,SESAME,SALAD OR COOKING~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04060~^~0400~^~Oil, vegetable, sunflower, linoleic (less than 60%)~^~OIL,VEG,SUNFLOWER,LINOLEIC (LESS THAN 60%)~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04501~^~0400~^~Oil, vegetable, cocoa butter~^~OIL,VEG,COCOA BUTTER~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04502~^~0400~^~Oil, vegetable, cottonseed, salad or cooking~^~OIL,VEG,CTTNSD,SALAD OR COOKING~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04506~^~0400~^~Oil, vegetable, sunflower, linoleic, (60% and over)~^~OIL,VEG,SUNFLOWER,LINOLEIC,(60%&OVER)~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04510~^~0400~^~Oil, vegetable safflower, salad or cooking, linoleic, (over 70%)~^~OIL,VEG SAFFLOWER,SALAD OR COOKING,LINOLEIC,(OVER 70%)~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04511~^~0400~^~Oil, vegetable safflower, salad or cooking, oleic, (over 70%)~^~OIL,VEG SAFFLOWER,SALAD OR COOKING,OLEIC,(OVER 70%)~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04513~^~0400~^~Vegetable oil, palm kernel~^~VEGETABLE OIL,PALM KERNEL~^~~^~~^~Y~^~~^0^~~^0.00^^8.62^
+~04514~^~0400~^~Oil, vegetable, poppyseed~^~OIL,VEGETABLE,POPPYSEED~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04515~^~0400~^~Oil, vegetable, tomatoseed~^~OIL,VEGETABLE,TOMATOSEED~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04516~^~0400~^~Oil, vegetable, teaseed~^~OIL,VEGETABLE,TEASEED~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04517~^~0400~^~Oil, vegetable, grapeseed~^~OIL,VEGETABLE,GRAPESEED~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04518~^~0400~^~Oil, vegetable corn, salad or cooking~^~OIL,VEG CORN,SALAD OR COOKING~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04520~^~0400~^~Fat, mutton tallow~^~FAT,MUTTON TALLOW~^~~^~~^~Y~^~~^0^~~^0.00^^9.02^
+~04528~^~0400~^~Oil, vegetable, walnut~^~OIL,VEGETABLE,WALNUT~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04529~^~0400~^~Oil, vegetable, almond~^~OIL,VEGETABLE,ALMOND~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04530~^~0400~^~Oil, vegetable, apricot kernel~^~OIL,VEG,APRICOT KERNEL~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04531~^~0400~^~Vegetable oil, soybean lecithin~^~VEGETABLE OIL,SOYBN LECITHIN~^~~^~~^~Y~^~~^0^~~^0.00^^7.63^
+~04532~^~0400~^~Oil, vegetable, hazelnut~^~OIL,VEGETABLE,HAZELNUT~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04534~^~0400~^~Oil, vegetable, babassu~^~OIL,VEGETABLE,BABASSU~^~~^~~^~~^~~^0^~~^0.00^^8.82^
+~04536~^~0400~^~Oil, vegetable, sheanut~^~OIL,VEGETABLE,SHEANUT~^~~^~~^~~^~~^0^~~^0.00^^8.62^
+~04541~^~0400~^~Oil, vegetable, cupu assu~^~OIL,VEGETABLE,CUPU ASSU~^~~^~~^~~^~~^0^~~^0.00^^8.62^
+~04542~^~0400~^~Fat, chicken~^~FAT,CHICKEN~^~~^~~^~Y~^~~^0^~~^0.00^^9.02^
+~04543~^~0400~^~Oil, soybean, salad or cooking, (hydrogenated) and cottonseed~^~OIL,SOYBN,SALAD OR COOKING,(HYDR)&CTTNSD~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04544~^~0400~^~Shortening, household, lard and vegetable oil~^~SHORTENING,HOUSEHOLD,LARD&VEG OIL~^~~^~~^~Y~^~~^0^~~^0.00^^9.02^
+~04545~^~0400~^~Oil, vegetable, sunflower, linoleic, (hydrogenated)~^~OIL,VEG,SUNFLOWER,LINOLEIC,(HYDR)~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04546~^~0400~^~Shortening bread, soybean (hydrogenated) and cottonseed~^~SHORTENING BREAD,SOYBN (HYDR)&CTTNSD~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04547~^~0400~^~Shortening frying (regular), soybean (hydrogenated) and cottonseed (hydrogenated)~^~SHORTENING FRYING (REG),SOYBN (HYDR)&CTTNSD (HYDR)~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04548~^~0400~^~Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)~^~SHORTENING CAKE MIX,SOYBN (HYDR)&CTTNSD (HYDR)~^~~^~~^~Y~^~~^0^~~^0.00^^8.82^
+~04549~^~0400~^~Shortening industrial, lard and vegetable oil~^~SHORTENING INDUSTRIAL,LARD&VEG OIL~^~~^~~^~~^~~^0^~~^0.00^^9.02^
+~04550~^~0400~^~Shortening frying (heavy duty), beef tallow and cottonseed~^~SHORTENING FRYING (HVY DUTY),BF TALLOW&CTTNSD~^~~^~~^~~^~~^0^~~^0.00^^9.02^
+~04551~^~0400~^~Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)~^~SHORTENING CONFECTIONERY,COCNT (HYDR)&OR PALM KERNEL (HYDR)~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04552~^~0400~^~Shortening frying (heavy duty), soybean (hydrogenated), linoleic (30%) stabilizers with silicon~^~SHORTENING FRYING HVY DUTY,SOYBN HYDR,LINOLEIC 30% W/SILICON~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04554~^~0400~^~Shortening industrial, soybean (hydrogenated) and cottonseed~^~SHORTENING INDUSTRIAL,SOYBN (HYDR)&CTTNSD~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04556~^~0400~^~Shortening frying (heavy duty), palm (hydrogenated)~^~SHORTENING FRYING (HVY DUTY),PALM (HYDR)~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04559~^~0400~^~Shortening household soybean (hydrogenated) and palm~^~SHORTENING HOUSEHOLD SOYBN (HYDR)&PALM~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04560~^~0400~^~Shortening frying (heavy duty), soybean (hydrogenated), linoleic (less than 1%)~^~SHORTENING FRYING HVY DUTY,SOYBN HYDR,LINOLEIC (LESS THAN 1%~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04570~^~0400~^~Shortening, confectionery, fractionated palm~^~SHORTENING,CONFECTIONERY,FRACTIONATED PALM~^~~^~~^~~^~~^0^~~^0.00^^8.62^
+~04572~^~0400~^~Oil, vegetable, nutmeg butter~^~OIL,VEG,NUTMEG BUTTER~^~~^~~^~~^~~^0^~~^0.00^^8.62^
+~04573~^~0400~^~Oil, vegetable, ucuhuba butter~^~OIL,VEG,UCUHUBA BUTTER~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04574~^~0400~^~Fat, duck~^~FAT,DUCK~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04575~^~0400~^~Fat, turkey~^~FAT,TURKEY~^~~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04576~^~0400~^~Fat, goose~^~FAT,GOOSE~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04581~^~0400~^~Vegetable oil, avocado~^~VEGETABLE OIL,AVOCADO~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04582~^~0400~^~Vegetable oil, canola~^~VEGETABLE OIL,CANOLA~^~low erucic acid rapeseed oil~^~~^~Y~^~~^0^~~^0.00^^8.84^
+~04583~^~0400~^~Vegetable oil, mustard~^~VEGETABLE OIL,MUSTARD~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04584~^~0400~^~Vegetable oil, sunflower, oleic (70% and over)~^~VEGETABLE OIL,SUNFLOWER,OLEIC (70%&OVER)~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04586~^~0400~^~Shortening, special purpose for cakes and frostings, soybean (hydrogenated)~^~SHORTENING,SPL PURPOSE FOR CAKES&FROSTINGS,SOYBN (HYDR)~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04587~^~0400~^~Shortening, special purpose for baking, soybean (hydrogenated) palm and cottonseed~^~SHORTENING,SPL PURPOSE FOR BAKING,SOYBN (HYDR) PALM&CTTNSD~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04588~^~0400~^~Vegetable oil, oat~^~VEGETABLE OIL,OAT~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~04589~^~0400~^~Fish oil, cod liver~^~FISH OIL,COD LIVER~^~~^~~^~~^~~^0^~~^0.00^^9.02^
+~04590~^~0400~^~Fish oil, herring~^~FISH OIL,HERRING~^~~^~~^~~^~~^0^~~^0.00^^9.02^
+~04591~^~0400~^~Fish oil, menhaden~^~FISH OIL,MENHADEN~^~~^~~^~~^~~^0^~~^0.00^^9.02^
+~04592~^~0400~^~Fish oil, menhaden, fully hydrogenated~^~FISH OIL,MENHADEN,FULLY HYDR~^~~^~~^~~^~~^0^~~^0.00^^9.02^
+~04593~^~0400~^~Fish oil, salmon~^~FISH OIL,SALMON~^~~^~~^~~^~~^0^~~^0.00^^9.02^
+~04594~^~0400~^~Fish oil, sardine~^~FISH OIL,SARDINE~^~~^~~^~~^~~^0^~~^0.00^^9.02^
+~04595~^~0400~^~Shortening, multipurpose, soybean (hydrogenated) and palm (hydrogenated)~^~SHORTENING,MULTIPURPOSE,SOYBN (HYDR)&PALM (HYDR)~^~~^~~^~~^~~^0^~~^0.00^^8.84^
+~05600~^~0500~^~USDA Commodity, turkey ham, dark meat, smoked, frozen~^~USDA COMMODITY,TURKEY HAM,DK MEAT,SMOKED,FRZ~^~~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~06153~^~0600~^~Sauce, NESTLE, ORTEGA Enchilada Sauce, ready-to-serve~^~SAUCE,NESTLE,ORTEGA ENCHILADA SAUCE,RTS~^~~^~~^~~^~~^0^~~^^^^
+~06157~^~0600~^~Sauce, NESTLE, ORTEGA Picante Sauce, ready-to-serve~^~SAUCE,NESTLE,ORTEGA PICANTE SAUCE,RTS~^~~^~~^~~^~~^0^~~^^^^
+~06730~^~0600~^~Soup, split pea with ham, chunky, reduced fat, reduced sodium, ready-to-serve, single brand~^~SOUP,SPLIT PEA W/ HAM,CHUNKY,RED FAT,RED NA,RTS,SINGLE BRAND~^~~^~~^~~^~~^0^~~^^^^
+~07022~^~0700~^~Frankfurter, beef~^~FRANKFURTER,BEEF~^~hot dog, frankfurter, wiener~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~07023~^~0700~^~Frankfurter, beef and pork~^~FRANKFURTER,BEEF AND PORK~^~hot dog, frank, wiener~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~07024~^~0700~^~Frankfurter, chicken~^~FRANKFURTER,CHICK~^~hot dog, frank, wiener~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~07025~^~0700~^~Frankfurter, turkey~^~FRANKFURTER,TURKEY~^~hot dog, frank, wiener~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~07240~^~0700~^~OSCAR MAYER, Wieners (pork, turkey)~^~OSCAR MAYER,WIENERS (PORK,TURKEY)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07241~^~0700~^~OSCAR MAYER, Wieners (beef franks)~^~OSCAR MAYER,WIENERS (BEEF FRANKS)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07242~^~0700~^~OSCAR MAYER, Wieners (beef franks, bun length)~^~OSCAR MAYER,WIENERS (BEEF FRANKS,BUN LENGTH)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07243~^~0700~^~OSCAR MAYER, Wieners (beef franks, fat free)~^~OSCAR MAYER,WIENERS (BEEF FRANKS,FAT FREE)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07244~^~0700~^~OSCAR MAYER, Wieners (beef franks, light)~^~OSCAR MAYER,WIENERS (BEEF FRANKS,LIGHT)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07245~^~0700~^~OSCAR MAYER, Wieners (cheese hot dogs with turkey)~^~OSCAR MAYER,WIENERS (CHEESE HOT DOGS W/ TURKEY)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07246~^~0700~^~OSCAR MAYER, Wieners (fat free hot dogs)~^~OSCAR MAYER,WIENERS (FAT FREE HOT DOGS)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07247~^~0700~^~OSCAR MAYER, Wieners (light pork, turkey, beef)~^~OSCAR MAYER,WIENERS (LIGHT PORK,TURKEY,BEEF)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07248~^~0700~^~OSCAR MAYER, Wieners Little (pork, turkey)~^~OSCAR MAYER,WIENERS LITTLE (PORK,TURKEY)~^~hot dog, frank, frankfurter~^~~^~~^~~^0^~~^^^^
+~07252~^~0700~^~LOUIS RICH, Franks (turkey and chicken cheese)~^~LOUIS RICH,FRANKS (TURKEY & CHICK CHEESE)~^~hot dog, frankfurter, wiener~^~~^~~^~~^0^~~^^^^
+~07253~^~0700~^~LOUIS RICH, Franks (turkey and chicken)~^~LOUIS RICH,FRANKS (TURKEY & CHICKEN)~^~hot dog, frankfurter, wiener~^~~^~~^~~^0^~~^^^^
+~07269~^~0700~^~BUTCHER BOY MEATS, INC., Turkey Franks~^~BUTCHER BOY MEATS,INC.,TURKEY FRANKS~^~hot dog, frankfurter, wiener~^~~^~~^~~^0^~~^^^^
+~07279~^~0700~^~HORMEL WRANGLER Beef Franks~^~HORMEL WRANGLER BEEF FRANKS~^~hot dog, frankfurter, wiener~^~~^~~^~~^0^~~^^4.00^9.00^4.00
+~08040~^~0800~^~Cereals ready-to-eat, HEARTLAND NATURAL CEREAL, PLAIN~^~CEREALS RTE,HEARTLAND NATURAL CEREAL,PLAIN~^~~^~~^~Y~^~~^0^~~^5.80^3.50^8.60^3.90
+~08041~^~0800~^~Cereals ready-to-eat, HEARTLAND NATURAL CEREAL, WITH COCONUT~^~CEREALS RTE,HEARTLAND NATURAL CEREAL,WITH COCONUT~^~~^~~^~Y~^~~^0^~~^5.80^3.50^8.60^3.90
+~08042~^~0800~^~Cereals ready-to-eat, HEARTLAND NATURAL CEREAL, WITH RAISINS~^~CEREALS RTE,HEARTLAND NATURAL CEREAL,WITH RAISINS~^~~^~~^~Y~^~~^0^~~^5.80^3.50^8.60^3.90
+~08044~^~0800~^~Cereals ready-to-eat, HONEYBRAN~^~CEREALS RTE,HONEYBRAN~^~~^~~^~Y~^~~^0^~~^6.00^3.20^8.60^3.60
+~08070~^~0800~^~Cereals ready-to-eat, SUGAR FROSTED FLAKES, RALSTON PURINA~^~CEREALS RTE,SUGAR FROSTED FLAKES,RALSTON PURINA~^~~^~~^~Y~^~~^0^~~^6.25^3.46^8.70^4.00
+~08079~^~0800~^~Cereals ready-to-eat, WAFFELOS~^~CEREALS RTE,WAFFELOS~^~~^~~^~~^~~^0^~~^^^^
+~08084~^~0800~^~Cereals ready-to-eat, wheat germ, toasted, plain~^~CEREALS RTE,WHEAT GERM,TSTD,PLN~^~~^~~^~Y~^~~^0^~~^5.80^3.59^8.37^3.78
+~08087~^~0800~^~Cereals ready-to-eat, GENERAL MILLS, Multi-Grain Cheerios~^~CEREALS RTE,GENERAL MILLS,MULTI-GRAIN CHEERIOS~^~~^~~^~Y~^~~^0^~~^^^^
+~08090~^~0800~^~Cereals, corn grits, white, regular, quick, enriched, dry~^~CEREALS,CORN GRITS,WHITE,REG,QUICK,ENR,DRY~^~~^~~^~Y~^~~^0^~~^6.25^3.46^8.37^4.16
+~08091~^~0800~^~Cereals, corn grits, white, regular, quick, enriched, cooked with water, without salt~^~CEREALS,CORN GRITS,WHITE,REG,QUICK,ENR,CKD W/ H2O,WO/ SALT~^~~^~~^~Y~^~~^0^~~^6.25^3.46^8.37^4.16
+~08100~^~0800~^~Cereals, CREAM OF RICE, dry~^~CEREALS,CREAM OF RICE,DRY~^~~^~~^~~^~~^0^~~^5.95^3.82^8.37^4.16
+~08101~^~0800~^~Cereals, CREAM OF RICE, cooked with water, without salt~^~CEREALS,CREAM OF RICE,CKD W/ H2O,WO/ SALT~^~~^~~^~Y~^~~^0^~~^5.95^3.82^8.37^4.16
+~08102~^~0800~^~Cereals, CREAM OF WHEAT, regular, dry~^~CEREALS,CREAM OF WHEAT,REG,DRY~^~~^~~^~Y~^~~^0^~~^5.70^4.05^8.37^4.12
+~08103~^~0800~^~Cereals, CREAM OF WHEAT, regular, cooked with water, without salt~^~CEREALS,CREAM OF WHEAT,REG,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08104~^~0800~^~Cereals, CREAM OF WHEAT, quick, dry~^~CEREALS,CREAM OF WHEAT,QUICK,DRY~^~~^~~^~Y~^~~^0^~~^5.70^4.05^8.37^4.12
+~08105~^~0800~^~Cereals, CREAM OF WHEAT, quick, cooked with water, without salt~^~CEREALS,CREAM OF WHEAT,QUICK,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08106~^~0800~^~Cereals, CREAM OF WHEAT, instant, dry~^~CEREALS,CREAM OF WHEAT,INST,DRY~^~~^~~^~Y~^~~^0^~~^5.70^4.05^8.37^4.12
+~08107~^~0800~^~Cereals, CREAM OF WHEAT, instant, prepared with water, without salt~^~CEREALS,CREAM OF WHEAT,INST,PREP W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08108~^~0800~^~Cereals, CREAM OF WHEAT, mix'n eat, plain, dry~^~CEREALS,CREAM OF WHEAT,MIX'N EAT,PLN,DRY~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08109~^~0800~^~Cereals, CREAM OF WHEAT, mix'n eat, plain, prepared with water~^~CEREALS,CREAM OF WHEAT,MIX'N EAT,PLN,PREP W/ H2O~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08112~^~0800~^~Cereals, farina, enriched, dry~^~CEREALS,FARINA,ENR,DRY~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08114~^~0800~^~Cereals, MALTEX, dry~^~CEREALS,MALTEX,DRY~^~~^~~^~Y~^~~^0^~~^5.83^3.60^8.37^3.80
+~08115~^~0800~^~Cereals, MALTEX, cooked with water, without salt~^~CEREALS,MALTEX,CKD W/ H2O,WO/ SALT~^~~^~~^~Y~^~~^0^~~^5.83^3.60^8.37^3.80
+~08116~^~0800~^~Cereals, MALT-O-MEAL, plain, dry~^~CEREALS,MALT-O-MEAL,PLN,DRY~^~~^~~^~~^~~^0^~~^5.70^3.60^8.37^4.10
+~08117~^~0800~^~Cereals, MALT-O-MEAL, plain and chocolate, cooked with water, without salt~^~CEREALS,MALT-O-MEAL,PLN & CHOC,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.70^3.60^8.37^4.10
+~08118~^~0800~^~Cereals, MAYPO, dry~^~CEREALS,MAYPO,DRY~^~~^~~^~~^~~^0^~~^5.83^3.46^8.37^4.10
+~08119~^~0800~^~Cereals, MAYPO, cooked with water, without salt~^~CEREALS,MAYPO,CKD W/ H2O,WO/ SALT~^~~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.10
+~08120~^~0800~^~Cereals, oats, regular and quick and instant, without fortified, dry~^~CEREALS,OATS,REG & QUICK & INST,WO/ FORT,DRY~^~oatmeal~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.12
+~08121~^~0800~^~Cereals, oats, regular and quick and instant, without fortified, cooked with water, without salt~^~CEREALS,OATS,REG & QUICK & INST,WO/ FORT,CKD W/ H2O,WO/ SALT~^~oatmeal~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.12
+~08122~^~0800~^~Cereals, oats, instant, fortified, plain, dry~^~CEREALS,OATS,INST,FORT,PLN,DRY~^~instant oatmeal~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.12
+~08123~^~0800~^~Cereals, oats, instant, fortified, plain, prepared with water~^~CEREALS,OATS,INST,FORT,PLN,PREP W/ H2O~^~instant oatmeal~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.12
+~08126~^~0800~^~Cereals, oats, instant, fortified, with bran and raisins, dry~^~CEREALS,OATS,INST,FORT,W/ BRAN & RAISINS,DRY~^~instant oatmeal~^~~^~~^~~^0^~~^5.83^3.46^8.37^4.12
+~08127~^~0800~^~Cereals, oats, instant, fortified, with bran and raisins, prepared with water~^~CEREALS,OATS,INST,FORT,W/ BRAN & RAISINS,PREP W/ H2O~^~oatmeal~^~~^~~^~~^0^~~^5.83^3.46^8.37^4.12
+~08128~^~0800~^~Cereals, oats, instant, fortified, with cinnamon and spice, dry~^~CEREALS,OATS,INST,FORT,W/ CINN & SPICE,DRY~^~oatmeal~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.12
+~08129~^~0800~^~Cereals, oats, instant, fortified, with cinnamon and spice, prepared with water~^~CEREALS,OATS,INST,FORT,W/ CINN & SPICE,PREP W/ H2O~^~instant oatmeal~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.12
+~08132~^~0800~^~Cereals, oats, instant, fortified, with raisins and spice, dry~^~CEREALS,OATS,INST,FORT,W/ RAISINS & SPICE,DRY~^~instant oatmeal~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.12
+~08133~^~0800~^~Cereals, oats, instant, fortified, with raisins and spice, prepared with water~^~CEREALS,OATS,INST,FORT,W/ RAISINS & SPICE,PREP W/ H2O~^~instant oatmeal~^~~^~Y~^~~^0^~~^5.83^3.46^8.37^4.12
+~08134~^~0800~^~Cereals, RALSTON, dry~^~CEREALS,RALSTON,DRY~^~~^~~^~~^~~^0^~~^5.83^3.59^8.37^3.78
+~08135~^~0800~^~Cereals, RALSTON, cooked with water, without salt~^~CEREALS,RALSTON,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.59^8.37^3.78
+~08136~^~0800~^~Cereals, ROMAN MEAL, plain, dry~^~CEREALS,ROMAN MEAL,PLN,DRY~^~~^~~^~~^~~^0^~~^5.90^3.10^8.37^3.60
+~08137~^~0800~^~Cereals, ROMAN MEAL, plain, cooked with water, without salt~^~CEREALS,ROMAN MEAL,PLN,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.90^3.10^8.37^3.60
+~08142~^~0800~^~Cereals, WHEATENA, dry~^~CEREALS,WHEATENA,DRY~^~~^~~^~~^~~^0^~~^5.83^3.59^8.37^3.78
+~08143~^~0800~^~Cereals, WHEATENA, cooked with water~^~CEREALS,WHEATENA,CKD W/ H2O~^~~^~~^~~^~~^0^~~^5.83^3.59^8.37^3.78
+~08144~^~0800~^~Cereals, whole wheat hot natural cereal, dry~^~CEREALS,WHL WHEAT HOT NAT CRL,DRY~^~~^~~^~Y~^~~^0^~~^5.83^3.59^8.37^3.78
+~08145~^~0800~^~Cereals, whole wheat hot natural cereal, cooked with water, without salt~^~CEREALS,WHL WHEAT HOT NAT CRL,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.59^8.37^3.78
+~08155~^~0800~^~Cereals, ROMAN MEAL WITH OATS, cooked with water, without salt~^~CEREALS,ROMAN MEAL WITH OATS,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.20^8.37^3.80
+~08156~^~0800~^~Cereals ready-to-eat, rice, puffed, fortified~^~CEREALS RTE,RICE,PUFFED,FORT~^~~^~~^~~^~~^0^~~^5.95^3.82^8.37^4.16
+~08158~^~0800~^~Cereals, corn grits, white, regular, quick, unenriched, dry~^~CEREALS,CORN GRITS,WHITE,REG,QUICK,UNENR,DRY~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08159~^~0800~^~Cereals, corn grits, yellow, regular, quick, enriched, dry~^~CEREALS,CORN GRITS,YEL,REG,QUICK,ENR,DRY~^~~^~~^~Y~^~~^0^~~^6.25^3.46^8.37^4.16
+~08160~^~0800~^~Cereals, corn grits, yellow, regular, quick, unenriched, dry~^~CEREALS,CORN GRITS,YEL,REG,QUICK,UNENR,DRY~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08161~^~0800~^~Cereals, corn grits, white, regular, quick, enriched, cooked with water, with salt~^~CEREALS,CORN GRITS,WHITE,REG,QUICK,ENR,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08162~^~0800~^~Cereals, corn grits, white, regular, quick, unenriched, cooked with water, without salt~^~CEREALS,CORN GRITS,WHITE,REG,QUICK,UNENR,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08163~^~0800~^~Cereals, corn grits, white, regular, quick, unenriched, cooked with water, with salt~^~CEREALS,CORN GRITS,WHITE,REG,QUICK,UNENR,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08164~^~0800~^~Cereals, corn grits, yellow, regular, quick, enriched, cooked with water, without salt~^~CEREALS,CORN GRITS,YEL,REG,QUICK,ENR,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08165~^~0800~^~Cereals, corn grits, yellow, regular, quick, enriched, cooked with water, with salt~^~CEREALS,CORN GRITS,YEL,REG,QUICK,ENR,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08166~^~0800~^~Cereals, corn grits, yellow, regular, quick, unenriched, cooked with water, without salt~^~CEREALS,CORN GRITS,YEL,REG,QUICK,UNENR,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08167~^~0800~^~Cereals, corn grits, yellow, regular, quick, unenriched, cooked with water, with salt~^~CEREALS,CORN GRITS,YEL,REG,QUICK,UNENR,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^6.25^3.46^8.37^4.16
+~08168~^~0800~^~Cereals, CREAM OF RICE, cooked with water, with salt~^~CEREALS,CREAM OF RICE,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.95^3.82^8.37^4.16
+~08169~^~0800~^~Cereals, CREAM OF WHEAT, regular, cooked with water, with salt~^~CEREALS,CREAM OF WHEAT,REG,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08170~^~0800~^~Cereals, CREAM OF WHEAT, quick, cooked with water, with salt~^~CEREALS,CREAM OF WHEAT,QUICK,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08171~^~0800~^~Cereals, CREAM OF WHEAT, instant, prepared with water, with salt~^~CEREALS,CREAM OF WHEAT,INST,PREP W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08172~^~0800~^~Cereals, farina, unenriched, dry~^~CEREALS,FARINA,UNENR,DRY~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08173~^~0800~^~Cereals, farina, enriched, cooked with water, with salt~^~CEREALS,FARINA,ENR,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08174~^~0800~^~Cereals, farina, unenriched, cooked with water, without salt~^~CEREALS,FARINA,UNENR,CKD W/ H2O,WO/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08175~^~0800~^~Cereals, farina, unenriched, cooked with water, with salt~^~CEREALS,FARINA,UNENR,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.05^8.37^4.12
+~08176~^~0800~^~Cereals, MALTEX, cooked with water, with salt~^~CEREALS,MALTEX,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.60^8.37^3.80
+~08177~^~0800~^~Cereals, MALT-O-MEAL, chocolate, dry~^~CEREALS,MALT-O-MEAL,CHOC,DRY~^~~^~~^~~^~~^0^~~^5.70^4.00^8.37^4.10
+~08178~^~0800~^~Cereals, MALT-O-MEAL, plain and chocolate, cooked with water, with salt~^~CEREALS,MALT-O-MEAL,PLN & CHOC,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.70^4.00^8.37^4.10
+~08179~^~0800~^~Cereals, MAYPO, cooked with water, with salt~^~CEREALS,MAYPO,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.46^8.37^4.10
+~08180~^~0800~^~Cereals, oats, regular and quick and instant, without fortified, cooked with water, with salt~^~CEREALS,OATS,REG & QUICK & INST,WO/ FORT,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.46^8.37^4.12
+~08181~^~0800~^~Cereals, ROMAN MEAL, plain, cooked with water, with salt~^~CEREALS,ROMAN MEAL,PLN,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.90^3.10^8.37^3.60
+~08182~^~0800~^~Cereals, WHEATENA, cooked with water, with salt~^~CEREALS,WHEATENA,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.59^8.37^3.78
+~08183~^~0800~^~Cereals, whole wheat hot natural cereal, cooked with water, with salt~^~CEREALS,WHL WHEAT HOT NAT CRL,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.59^8.37^3.78
+~08184~^~0800~^~Cereals, ROMAN MEAL WITH OATS, cooked with water, with salt~^~CEREALS,ROMAN MEAL WITH OATS,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.90^3.20^8.37^3.80
+~08185~^~0800~^~Cereals, RALSTON, cooked with water, with salt~^~CEREALS,RALSTON,CKD W/ H2O,W/ SALT~^~~^~~^~~^~~^0^~~^5.83^3.59^8.37^3.78
+~08340~^~0800~^~Cereals ready-to-eat, KRAFT, POST THE ORIGINAL SHREDDED WHEAT Cereal~^~CEREALS RTE,KRAFT,POST THE ORIGINAL SHREDDED WHEAT CEREAL~^~~^~~^~~^~~^0^~~^^^^
+~09151~^~0900~^~Lemons, raw, with peel~^~LEMONS,RAW,WITH PEEL~^~~^~~^~~^~Seeds~^2^~Citrus limon~^6.25^^^
+~09156~^~0900~^~Lemon peel, raw~^~LEMON PEEL,RAW~^~~^~~^~Y~^~~^0^~~^6.25^^^
+~09189~^~0900~^~Fruit, mixed, (peach and cherry-sweet and -sour and raspberry and grape and boysenberry), frozen, sweetened~^~FRUIT,MXD,(PCH, CHER-SWT & SR, RASPB, GRAPE, BOYS),FRZ,SWTND~^~~^~~^~~^~~^0^~~^6.25^3.36^8.37^3.78
+~09205~^~0900~^~Oranges, raw, with peel~^~ORANGES,RAW,WITH PEEL~^~~^~~^~Y~^~Seeds~^1^~Citrus sinensis~^6.25^^^
+~09216~^~0900~^~Orange peel, raw~^~ORANGE PEEL,RAW~^~~^~~^~Y~^~~^0^~~^6.25^^^
+~11134~^~1100~^~Cassava, raw~^~CASSAVA,RAW~^~~^~~^~Y~^~~^^~Manihot esculenta~^6.25^2.78^8.37^4.03
+~11159~^~1100~^~Coleslaw, home-prepared~^~COLESLAW,HOME-PREPARED~^~~^~~^~~^~~^0^~~^0.00^^^
+~11165~^~1100~^~Coriander leaves, raw~^~CORIANDER LEAVES,RAW~^~Cilantro, raw, Chinese parsley, raw~^~~^~Y~^~Roots, old and bruised leaves~^15^~Coriandrum sativum~^6.25^2.44^8.37^3.57
+~11190~^~1100~^~Cornsalad, raw~^~CORNSALAD,RAW~^~~^~~^~~^~~^^~Valerianella locusta~^6.25^2.44^8.37^3.57
+~11244~^~1100~^~Lambsquarters, raw~^~LAMBSQUARTERS,RAW~^~~^~~^~~^~~^^~Chenopodium album~^6.25^2.44^8.37^3.57
+~11350~^~1100~^~Pokeberry shoots, (poke), raw~^~POKEBERRY SHOOTS,(POKE),RAW~^~~^~~^~~^~~^^~Phytolacca americana~^6.25^2.44^8.37^3.57
+~11352~^~1100~^~Potato, flesh and skin, raw~^~POTATO,FLESH & SKN,RAW~^~~^~~^~Y~^~~^0^~~^6.25^2.78^8.37^4.03
+~11367~^~1100~^~Potatoes, boiled, cooked without skin, flesh, without salt~^~POTATOES,BLD,CKD WO/ SKN,FLESH,WO/ SALT~^~~^~~^~Y~^~~^0^~~^6.25^2.78^8.37^4.03
+~11372~^~1100~^~Potatoes, scalloped, home-prepared with butter~^~POTATOES,SCALLPD,HOME-PREPARED W/BUTTER~^~~^~~^~~^~~^0^~~^0.00^^^
+~11373~^~1100~^~Potatoes, au gratin, home-prepared from recipe using butter~^~POTATOES,AU GRATIN,HOME-PREPARED FROM RECIPE USING BUTTER~^~~^~~^~~^~~^0^~~^0.00^^^
+~11384~^~1100~^~Potatoes, au gratin, dry mix, unprepared~^~POTATOES,AU GRATIN,DRY MIX,UNPREP~^~~^~~^~~^~~^0^~~^0.00^^^
+~11385~^~1100~^~Potatoes, au gratin, dry mix, prepared with water, whole milk and butter~^~POTATOES,AU GRATIN,DRY MIX,PREP W/H2O,WHL MILK&BUTTER~^~~^~~^~~^~~^0^~~^0.00^^^
+~11525~^~1100~^~Taro, tahitian, raw~^~TARO,TAHITIAN,RAW~^~~^~~^~~^~~^^~Colocasia esculenta~^6.25^2.78^8.37^4.03
+~11587~^~1100~^~Vinespinach, (basella), raw~^~VINESPINACH,(BASELLA),RAW~^~~^~~^~~^~~^^~Basella alba~^6.25^2.44^8.37^3.57
+~11597~^~1100~^~Winged bean leaves, raw~^~WINGED BEAN LEAVES,RAW~^~~^~~^~~^~~^^~Psophocarpus tetragonolobus~^6.25^2.44^8.37^3.57
+~11599~^~1100~^~Winged bean tuber, raw~^~WINGED BEAN TUBER,RAW~^~~^~~^~~^~~^^~Psophocarpus tetragonolobus~^6.25^2.78^8.37^3.84
+~11618~^~1100~^~Eppaw, raw~^~EPPAW,RAW~^~~^~~^~~^~~^^~Perideridia oregana~^6.25^2.78^8.37^3.84
+~11656~^~1100~^~Corn pudding, home-prepared~^~CORN PUDD,HOME-PREPARED~^~~^~~^~~^~~^0^~~^0.00^^^
+~11658~^~1100~^~Spinach souffle, home-prepared~^~SPINACH SOUFFLE,HOME-PREPARED~^~~^~~^~~^~~^0^~~^0.00^^^
+~11659~^~1100~^~Sweetpotato, cooked, candied, home-prepared~^~SWEETPOTATO,CKD,CANDIED,HOME-PREPARED~^~~^~~^~~^~~^0^~~^0.00^^^
+~11674~^~1100~^~Potatoes, baked, flesh and skin, without salt~^~POTATOES,BKD,FLESH & SKN,WO/ SALT~^~~^~~^~Y~^~~^0^~~^6.25^2.78^8.37^4.03
+~11833~^~1100~^~Potatoes, boiled, cooked without skin, flesh, with salt~^~POTATOES,BLD,CKD WO/ SKN,FLESH,W/ SALT~^~~^~~^~Y~^~~^0^~~^6.25^2.78^8.37^4.03
+~11843~^~1100~^~Potatoes, au gratin, home-prepared from recipe using margarine~^~POTATOES,AU GRATIN,HOME-PREPARED FROM RECIPE USING MARGARINE~^~~^~~^~~^~~^0^~~^0.00^^^
+~11844~^~1100~^~Potatoes, scalloped, home-prepared with margarine~^~POTATOES,SCALLPD,HOME-PREPARED W/MARGARINE~^~~^~~^~~^~~^0^~~^0.00^^^
+~11935~^~1100~^~Catsup~^~CATSUP~^~Ketchup~^~~^~Y~^~~^0^~~^6.25^2.44^8.37^3.57
+~11949~^~1100~^~Catsup, low sodium~^~CATSUP,LOW SODIUM~^~Ketchup, low sodium~^~~^~Y~^~~^0^~~^6.25^2.44^8.37^3.57
+~11995~^~1100~^~Fiddlehead ferns, raw~^~FIDDLEHEAD FERNS,RAW~^~~^~~^~~^~~^^~Matteuccia struthioreris~^6.25^2.44^8.37^3.57
+~12131~^~1200~^~Nuts, macadamia nuts, raw~^~MACADAMIA NUTS,RAW~^~~^~~^~~^~Shells~^69^~Macadamia integrifolia, M. tetraphylla~^5.30^3.47^8.37^4.07
+~12155~^~1200~^~Nuts, walnuts, english~^~WALNUTS,ENGLISH~^~~^~~^~Y~^~Shells~^55^~Juglans regia~^5.30^3.47^8.37^4.07
+~12220~^~1200~^~Seeds, flaxseed~^~SEEDS,FLAXSEED~^~~^~~^~Y~^~~^0^~Linum usitatissimum~^5.30^3.47^8.37^4.07
+~12698~^~1200~^~Seeds, sesame butter, tahini, type of kernels unspecified~^~SESAME BUTTER,TAHINI,KRNLS UNSPEC~^~~^~~^~Y~^~~^0^~~^5.30^3.47^8.37^4.07
+~13013~^~1300~^~Beef, composite of trimmed retail cuts, separable lean only, trimmed to 1/4" fat, choice, raw~^~BEEF,COMP OF RTL CUTS,LN,1/4"FAT,CHOIC,RAW~^~~^~~^~~^~12% bone, 18% separable fat~^30^~~^6.25^4.27^9.02^3.87
+~13016~^~1300~^~Beef, composite of trimmed retail cuts, separable lean only, trimmed to 1/4" fat, select, cooked~^~BEEF,COMP OF RTL CUTS,LN,1/4"FAT,SEL,CKD~^~~^~~^~~^~14% bone, 16% separable fat~^30^~~^6.25^4.27^9.02^3.87
+~13049~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/4" fat, all grades, raw~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/4"FAT,ALL GRDS,RAW~^~Top Blade Steak~^~~^~~^~Bone~^19^~~^6.25^4.27^9.02^3.87
+~13050~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/4" fat, all grades, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/4"FAT,ALL GRDS,CKD,BRSD~^~Top Blade Steak~^~~^~Y~^~Bone~^23^~~^6.25^4.27^9.02^3.87
+~13051~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/4" fat, choice, raw~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/4"FAT,CHOIC,RAW~^~Top Blade Steak~^~~^~~^~Bone~^19^~~^6.25^4.27^9.02^3.87
+~13052~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/4" fat, choice, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/4"FAT,CHOIC,CKD,BRSD~^~Top Blade Steak~^~~^~Y~^~Bone~^23^~~^6.25^4.27^9.02^3.87
+~13053~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/4" fat, select, raw~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/4"FAT,SEL,RAW~^~Top Blade Steak~^~~^~~^~Bone~^19^~~^6.25^4.27^9.02^3.87
+~13054~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/4" fat, select, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/4"FAT,SEL,CKD,BRSD~^~Top Blade Steak~^~~^~~^~Bone~^23^~~^6.25^4.27^9.02^3.87
+~13057~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 1/4" fat, all grades, raw~^~BEEF,CHUCK,BLADE RST,LN,1/4"FAT,ALL GRDS,RAW~^~Top Blade Steak~^~~^~~^~Bone 19%, separable fat 16%~^35^~~^6.25^4.27^9.02^3.87
+~13058~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 1/4" fat, all grades, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN,1/4"FAT,ALL GRDS,CKD,BRSD~^~Top Blade Steak~^~~^~Y~^~23% bone, 17% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13059~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 1/4" fat, choice, raw~^~BEEF,CHUCK,BLADE RST,LN,1/4"FAT,CHOIC,RAW~^~Top Blade Steak~^~~^~~^~Bone 19%, separable fat 18%~^37^~~^6.25^4.27^9.02^3.87
+~13060~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 1/4" fat, choice, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN,1/4"FAT,CHOIC,CKD,BRSD~^~Top Blade Steak~^~~^~Y~^~23% bone, 19% separable fat~^42^~~^6.25^4.27^9.02^3.87
+~13061~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 1/4" fat, select, raw~^~BEEF,CHUCK,BLADE RST,LN,1/4"FAT,SEL,RAW~^~Top Blade Steak~^~~^~Y~^~Bone 19%, separable fat 15%~^34^~~^6.25^4.27^9.02^3.87
+~13062~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 1/4" fat, select, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN,1/4"FAT,SEL,CKD,BRSD~^~Top Blade Steak~^~~^~Y~^~23% bone, 15% separable fat~^38^~~^6.25^4.27^9.02^3.87
+~13095~^~1300~^~Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, raw~^~BEEF,RIB,EYE,SML END (RIBS 10-12),LN&FAT,0"FAT,CHOIC,RAW~^~Delmonico~^~~^~~^~Connective tissue~^4^~~^6.25^4.27^9.02^3.87
+~13096~^~1300~^~Beef, rib, eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, choice, cooked, broiled~^~BEEF,RIB,EYE,SML END (10-12),LN&FAT,0"FAT,CHOIC,CKD,BRLD~^~Delmonico~^~~^~~^~Connective tissue~^6^~~^6.25^4.27^9.02^3.87
+~13097~^~1300~^~Beef, rib, eye, small end (ribs 10-12), separable lean only, trimmed to 0" fat, choice, raw~^~BEEF,RIB,EYE,SML END (RIBS 10-12),LN,0"FAT,CHOIC,RAW~^~Delmonico~^~~^~~^~Connective tissue 4%, separable fat 21%~^25^~~^6.25^4.27^9.02^3.87
+~13098~^~1300~^~Beef, rib, eye, small end (ribs 10-12), separable lean only, trimmed to 0" fat, choice, cooked, broiled~^~BEEF,RIB,EYE,SML END (RIBS 10-12),LN,0"FAT,CHOIC,CKD,BRLD~^~Delmonico~^~~^~~^~6% connective tissue, 17% separable fat~^23^~~^6.25^4.27^9.02^3.87
+~13113~^~1300~^~Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 1/4" fat, all grades, cooked, roasted~^~BEEF,RIB,LRG END (RIBS 6-9),LN,1/4"FAT,ALL GRDS,CKD,RSTD~^~~^~~^~Y~^~16% bone, 24% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13115~^~1300~^~Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,RIB,LRG END (RIBS 6-9),LN,1/4"FAT,CHOIC,CKD,BRLD~^~~^~~^~~^~21% bone, 25% separable fat~^46^~~^6.25^4.27^9.02^3.87
+~13118~^~1300~^~Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,RIB,LRG END (RIBS 6-9),LN,1/4"FAT,SEL,CKD,BRLD~^~~^~~^~~^~21% bone, 19% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13143~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/4" fat, select, cooked, roasted~^~BEEF,RIB,SML END (RIBS 10-12),LN,1/4"FAT,SEL,CKD,RSTD~^~~^~~^~Y~^~18% bone, 22% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13145~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/4" fat, prime, cooked, broiled~^~BEEF,RIB,SML END (RIBS 10-12),LN,1/4"FAT,PRIME,CKD,BRLD~^~~^~~^~~^~21% bone, 19% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13149~^~1300~^~Beef, rib, shortribs, separable lean only, choice, raw~^~BEEF,RIB,SHORTRIBS,LN ONLY,CHOIC,RAW~^~~^~~^~~^~Bone 27%, separable fat 32%~^59^~~^6.25^4.27^9.02^3.87
+~13204~^~1300~^~Beef, round, tip round, separable lean only, trimmed to 1/4" fat, select, cooked, roasted~^~BEEF  RND  TIP RND   LN ONLY   TO 1/4" FAT  SEL  CKD  RSTD~^~~^~~^~~^~5% connective tissue, 9% separable fat~^14^~~^6.25^4.27^9.02^3.87
+~13207~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, all grades, raw~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,ALL GRDS,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13208~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, all grades, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,ALL GRDS,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~Y~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13209~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, choice, raw~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,CHOIC,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13210~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,CHOIC,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13211~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, choice, cooked, pan-fried~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,CHOIC,CKD,PAN-FRIED~^~London Broil, Minute Steak, Round Steak~^~~^~Y~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13212~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, select, raw~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,SEL,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13213~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,SEL,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13214~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, prime, raw~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,PRIME,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13215~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, prime, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,PRIME,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13216~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, all grades, raw~^~BEEF,RND,TOP RND,LN,1/4"FAT,ALL GRDS,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue 2%, separable fat 8%~^10^~~^6.25^4.27^9.02^3.87
+~13217~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, all grades, cooked, broiled~^~BEEF,RND,TOP RND,LN,1/4"FAT,ALL GRDS,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~Y~^~3% connective tissue, 7% separable fat~^10^~~^6.25^4.27^9.02^3.87
+~13218~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, choice, raw~^~BEEF,RND,TOP RND,LN,1/4"FAT,CHOIC,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue 2%, separable fat 9%~^11^~~^6.25^4.27^9.02^3.87
+~13219~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,RND,TOP RND,LN,1/4"FAT,CHOIC,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~3% connective tissue, 7% separable fat~^10^~~^6.25^4.27^9.02^3.87
+~13220~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, choice, cooked, pan-fried~^~BEEF,RND,TOP RND,LN,1/4"FAT,CHOIC,CKD,PAN-FRIED~^~London Broil, Minute Steak, Round Steak~^~~^~Y~^~1% connective tissue, 11% separable fat~^12^~~^6.25^4.27^9.02^3.87
+~13221~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, select, raw~^~BEEF,RND,TOP RND,LN,1/4"FAT,SEL,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue 2%, separable fat 8%~^10^~~^6.25^4.27^9.02^3.87
+~13222~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,RND,TOP RND,LN,1/4"FAT,SEL,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~2% connective tissue, 7% separable fat~^9^~~^6.25^4.27^9.02^3.87
+~13223~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, prime, raw~^~BEEF,RND,TOP RND,LN,1/4"FAT,PRIME,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue 1%, separable fat 5%~^6^~~^6.25^4.27^9.02^3.87
+~13224~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, prime, cooked, broiled~^~BEEF,RND,TOP RND,LN,1/4"FAT,PRIME,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~1% connective tissue, 3% separable fat~^4^~~^6.25^4.27^9.02^3.87
+~13231~^~1300~^~Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/4" fat, USDA choice, raw~^~BEEF,SHRT LOIN,PRTRHS STEAK,LN, 1/4" FAT,USDA CHOIC,RAW~^~~^~~^~~^~Bone and connective tissue, 22%, separable fat, 13%~^35^~~^6.25^4.27^9.02^3.87
+~13232~^~1300~^~Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,SHRT LOIN,PRTRHS STEAK,LN,1/4"FAT,CHOIC,CKD,BRLD~^~~^~~^~~^~27% bone, 13% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13236~^~1300~^~Beef, short loin, t-bone steak, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,SHRT LOIN,T-BONE STEAK,LN,1/4"FAT,CHOIC,CKD,BRLD~^~~^~~^~~^~13% bone, 27% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13237~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, all grades, raw~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,ALL GRDS,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13238~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, all grades, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,ALL GRDS,CKD,BRLD~^~Filet Mignon, Beef Medallion~^~~^~Y~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13239~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, all grades, cooked, roasted~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,ALL GRDS,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13240~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, choice, raw~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,CHOIC,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13241~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,CHOIC,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13242~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,CHOIC,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13243~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, select, raw~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,SEL,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13244~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,SEL,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13245~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, select, cooked, roasted~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,SEL,CKD,RSTD~^~Filet Mignon, Beef Medallion~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13246~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, prime, raw~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,PRIME,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13247~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, prime, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,PRIME,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13248~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/4" fat, prime, cooked, roasted~^~BEEF,TENDERLOIN,LN&FAT,1/4"FAT,PRIME,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13249~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, all grades, raw~^~BEEF,TENDERLOIN,LN,1/4"FAT,ALL GRDS,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue 1%, separable fat 24%~^25^~~^6.25^4.27^9.02^3.87
+~13250~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, all grades, cooked, broiled~^~BEEF,TENDERLOIN,LN,1/4"FAT,ALL GRDS,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~Y~^~5% connective tissue, 16% separable fat~^21^~~^6.25^4.27^9.02^3.87
+~13251~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, all grades, cooked, roasted~^~BEEF,TENDERLOIN,LN,1/4"FAT,ALL GRDS,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~2% connective tissue, 24% separable fat~^26^~~^6.25^4.27^9.02^3.87
+~13252~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, choice, raw~^~BEEF,TENDERLOIN,LN,1/4"FAT,CHOIC,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue 2%, separable fat 24%~^26^~~^6.25^4.27^9.02^3.87
+~13253~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,TENDERLOIN,LN,1/4"FAT,CHOIC,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~5% connective tissue, 17% separable fat~^22^~~^6.25^4.27^9.02^3.87
+~13254~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted~^~BEEF,TENDERLOIN,LN,1/4"FAT,CHOIC,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~2% connective tissue, 24% separable fat~^26^~~^6.25^4.27^9.02^3.87
+~13255~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, select, raw~^~BEEF,TENDERLOIN,LN,1/4"FAT,SEL,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue 1%, separable fat 24%~^25^~~^6.25^4.27^9.02^3.87
+~13256~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,TENDERLOIN,LN,1/4"FAT,SEL,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~5% connective tissue, 15% separable fat~^20^~~^6.25^4.27^9.02^3.87
+~13257~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, select, cooked, roasted~^~BEEF,TENDERLOIN,LN,1/4"FAT,SEL,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~2% connective tissue, 24% separable fat~^26^~~^6.25^4.27^9.02^3.87
+~13258~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, prime, raw~^~BEEF,TENDERLOIN,LN,1/4"FAT,PRIME,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue 3%, separable fat 22%~^25^~~^6.25^4.27^9.02^3.87
+~13259~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, prime, cooked, broiled~^~BEEF,TENDERLOIN,LN,1/4"FAT,PRIME,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~3% connective tissue, 18% separable fat~^21^~~^6.25^4.27^9.02^3.87
+~13260~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 1/4" fat, prime, cooked, roasted~^~BEEF,TENDERLOIN,LN,1/4"FAT,PRIME,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~Y~^~3% connective tissue, 22% separable fat~^25^~~^6.25^4.27^9.02^3.87
+~13261~^~1300~^~Beef, top loin, separable lean and fat, trimmed to 1/4" fat, all grades, raw~^~BEEF,TOP LOIN,LN&FAT,1/4"FAT,ALL GRDS,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^9^~~^6.25^4.27^9.02^3.87
+~13262~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/4" fat, all grades, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/4"FAT,ALL GRDS,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~Y~^~Connective tissue~^9^~~^6.25^4.27^9.02^3.87
+~13263~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/4" fat, choice, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/4"FAT,CHOIC,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13264~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/4"FAT,CHOIC,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^8^~~^6.25^4.27^9.02^3.87
+~13265~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/4" fat, select, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/4"FAT,SEL,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^8^~~^6.25^4.27^9.02^3.87
+~13266~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/4"FAT,SEL,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^9^~~^6.25^4.27^9.02^3.87
+~13267~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/4" fat, prime, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/4"FAT,PRIME,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13268~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/4" fat, prime, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/4"FAT,PRIME,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^8^~~^6.25^4.27^9.02^3.87
+~13269~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/4" fat, all grades, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/4"FAT,ALL GRDS,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue 9%, separable fat 18%~^27^~~^6.25^4.27^9.02^3.87
+~13270~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/4" fat, all grades, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/4"FAT,ALL GRDS,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~Y~^~9% connective tissue, 15% separable fat~^24^~~^6.25^4.27^9.02^3.87
+~13271~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/4" fat, choice, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/4"FAT,CHOIC,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue 10%, separable fat 18%~^28^~~^6.25^4.27^9.02^3.87
+~13272~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/4"FAT,CHOIC,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~8% connective tissue, 17% separable fat~^25^~~^6.25^4.27^9.02^3.87
+~13273~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/4" fat, select, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/4"FAT,SEL,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue 8%, separable fat 16%~^24^~~^6.25^4.27^9.02^3.87
+~13274~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/4"FAT,SEL,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~9% connective tissue, 14% separable fat~^23^~~^6.25^4.27^9.02^3.87
+~13275~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/4" fat, prime, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/4"FAT,PRIME,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue 5%, separable fat 22%~^27^~~^6.25^4.27^9.02^3.87
+~13276~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/4" fat, prime, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/4"FAT,PRIME,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~8% connective tissue, 17% separable fat~^25^~~^6.25^4.27^9.02^3.87
+~13277~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/4" fat, all grades, raw~^~BEEF,TOP SIRLOIN,LN&FAT,1/4"FAT,ALL GRDS,RAW~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13278~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/4" fat, all grades, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,1/4"FAT,ALL GRDS,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~Y~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13279~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/4" fat, choice, raw~^~BEEF,TOP SIRLOIN,LN&FAT,1/4"FAT,CHOIC,RAW~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13280~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,1/4"FAT,CHOIC,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13281~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/4" fat, choice, cooked, pan-fried~^~BEEF,TOP SIRLOIN,LN&FAT,1/4"FAT,CHOIC,CKD,PAN-FRIED~^~Sirloin steak, Sirloin strip~^~~^~Y~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13282~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/4" fat, select, raw~^~BEEF,TOP SIRLOIN,LN&FAT,1/4"FAT,SEL,RAW~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13283~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,1/4"FAT,SEL,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13286~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 1/4" fat, all grades, raw~^~BEEF,TOP SIRLOIN,LN,1/4"FAT,ALL GRDS,RAW~^~Sirloin steak, Sirloin strip~^~~^~Y~^~Connective tissue 5%, separable fat 15%~^20^~~^6.25^4.27^9.02^3.87
+~13287~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 1/4" fat, all grades, cooked, broiled~^~BEEF,TOP SIRLOIN,LN,1/4"FAT,ALL GRDS,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~Y~^~5% connective tissue, 12% separable fat~^17^~~^6.25^4.27^9.02^3.87
+~13288~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 1/4" fat, choice, raw~^~BEEF,TOP SIRLOIN,LN,1/4"FAT,CHOIC,RAW~^~Sirloin steak, Sirloin strip~^~~^~Y~^~Connective tissue 5%, separable fat 16%~^21^~~^6.25^4.27^9.02^3.87
+~13289~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled~^~BEEF,TOP SIRLOIN,LN,1/4"FAT,CHOIC,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~Y~^~5% connective tissue, 13% separable fat~^18^~~^6.25^4.27^9.02^3.87
+~13290~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 1/4" fat, choice, cooked, pan-fried~^~BEEF,TOP SIRLOIN,LN,1/4"FAT,CHOIC,CKD,PAN-FRIED~^~Sirloin steak, Sirloin strip~^~~^~Y~^~2% connective tissue, 19% separable fat~^21^~~^6.25^4.27^9.02^3.87
+~13291~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 1/4" fat, select, raw~^~BEEF,TOP SIRLOIN,LN,1/4"FAT,SEL,RAW~^~Sirloin steak, Sirloin strip~^~~^~Y~^~Connective tissue 5%, separable fat 14%~^19^~~^6.25^4.27^9.02^3.87
+~13292~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 1/4" fat, select, cooked, broiled~^~BEEF,TOP SIRLOIN,LN,1/4"FAT,SEL,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~Y~^~5% connective tissue, 12% separable fat~^17^~~^6.25^4.27^9.02^3.87
+~13295~^~1300~^~Beef, ground, extra lean, (approximately 17% fat), raw~^~BEEF,GROUND,EX LN,(APPROX 17% FAT),RAW~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13296~^~1300~^~Beef, ground, extra lean, cooked, baked, medium~^~BEEF,GROUND,EX LN,CKD,BKD,MED~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13297~^~1300~^~Beef, ground, extra lean, cooked, baked, well done~^~BEEF,GROUND,EX LN,CKD,BKD,WELL DONE~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13298~^~1300~^~Beef, ground, extra lean, cooked, broiled, medium~^~BEEF,GROUND,EX LN,CKD,BRLD,MED~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13299~^~1300~^~Beef, ground, extra lean, cooked, broiled, well done~^~BEEF,GROUND,EX LN,CKD,BRLD,WELL DONE~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13300~^~1300~^~Beef, ground, extra lean, cooked, pan-fried, medium~^~BEEF,GROUND,EX LN,CKD,PAN-FRIED,MED~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13301~^~1300~^~Beef, ground, extra lean, cooked, pan-fried, well done~^~BEEF,GROUND,EX LN,CKD,PAN-FRIED,WELL DONE~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13302~^~1300~^~Beef, ground, lean, (approximately 21% fat), raw~^~BEEF,GROUND,LN,(APPROX 21% FAT),RAW~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13303~^~1300~^~Beef, ground, lean, cooked, baked, medium~^~BEEF,GROUND,LN,CKD,BKD,MED~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13304~^~1300~^~Beef, ground, lean, cooked, baked, well done~^~BEEF,GROUND,LN,CKD,BKD,WELL DONE~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13305~^~1300~^~Beef, ground, lean, cooked, broiled, medium~^~BEEF,GROUND,LN,CKD,BRLD,MED~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13306~^~1300~^~Beef, ground, lean, cooked, broiled, well done~^~BEEF,GROUND,LN,CKD,BRLD,WELL DONE~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13307~^~1300~^~Beef, ground, lean, cooked, pan-fried, medium~^~BEEF,GROUND,LN,CKD,PAN-FRIED,MED~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13308~^~1300~^~Beef, ground, lean, cooked, pan-fried, well done~^~BEEF,GROUND,LN,CKD,PAN-FRIED,WELL DONE~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13309~^~1300~^~Beef, ground, regular, (approximately 27% fat), raw~^~BEEF,GROUND,REG,(APPROX 27% FAT),RAW~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13310~^~1300~^~Beef, ground, regular, cooked, baked, medium~^~BEEF,GROUND,REG,CKD,BKD,MED~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13311~^~1300~^~Beef, ground, regular, cooked, baked, well done~^~BEEF,GROUND,REG,CKD,BKD,WELL DONE~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13312~^~1300~^~Beef, ground, regular, cooked, broiled, medium~^~BEEF,GROUND,REG,CKD,BRLD,MED~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13313~^~1300~^~Beef, ground, regular, cooked, broiled, well done~^~BEEF,GROUND,REG,CKD,BRLD,WELL DONE~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13314~^~1300~^~Beef, ground, regular, cooked, pan-fried, medium~^~BEEF,GROUND,REG,CKD,PAN-FRIED,MED~^~hamburger~^~~^~Y~^~~^0^~~^6.25^4.27^9.02^3.87
+~13315~^~1300~^~Beef, ground, regular, cooked, pan-fried, well done~^~BEEF,GROUND,REG,CKD,PAN-FRIED,WELL DONE~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13316~^~1300~^~Beef, ground, patties, frozen, (approximately 23% fat), raw~^~BEEF,GROUND,PATTIES,FRZ,(APPROX 23% FAT),RAW~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13317~^~1300~^~Beef, ground, patties, frozen, cooked, broiled, medium~^~BEEF,GROUND,PATTIES,FRZ,CKD,BRLD,MED~^~hamburger~^~~^~~^~~^0^~~^6.25^4.27^9.02^3.87
+~13342~^~1300~^~Beef, sandwich steaks, flaked, chopped, formed and thinly sliced, raw~^~BEEF,SNDWCH STEAKS,FLAKED,CHOPD,FORMED & THINLY SLICED,RAW~^~~^~~^~Y~^~~^0^~~^^4.00^9.00^4.00
+~13379~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,0"FAT,ALL GRDS,CKD,BRSD~^~Top Blade Steak~^~~^~Y~^~Bone~^25^~~^6.25^4.27^9.02^3.87
+~13380~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 0" fat, choice, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,0"FAT,CHOIC,CKD,BRSD~^~Top Blade Steak~^~~^~~^~Bone~^24^~~^6.25^4.27^9.02^3.87
+~13381~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 0" fat, select, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,0"FAT,SEL,CKD,BRSD~^~Top Blade Steak~^~~^~~^~23% bone, 17% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13382~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 0" fat, all grades, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN,0"FAT,ALL GRDS,CKD,BRSD~^~Top Blade Steak~^~~^~Y~^~25% bone, 14% separable fat~^39^~~^6.25^4.27^9.02^3.87
+~13383~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 0" fat, choice, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN,0"FAT,CHOIC,CKD,BRSD~^~Top Blade Steak~^~~^~~^~24% bone, 15% separable fat~^39^~~^6.25^4.27^9.02^3.87
+~13384~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 0" fat, select, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN,0"FAT,SEL,CKD,BRSD~^~Top Blade Steak~^~~^~~^~25% bone, 13% separable fat~^38^~~^6.25^4.27^9.02^3.87
+~13389~^~1300~^~Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 0" fat, choice, cooked, roasted~^~BEEF,RIB,LRG END (RIBS 6-9),LN,0"FAT,CHOIC,CKD,RSTD~^~~^~~^~~^~16% bone, 24% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13398~^~1300~^~Beef, round, bottom round, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised~^~BEEF,RND,BTTM RND,LN&FAT,0"FAT,ALL GRDS,CKD,BRSD~^~Cube Steak~^~~^~Y~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13399~^~1300~^~Beef, round, bottom round, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted~^~BEEF,RND,BTTM RND,LN&FAT,0"FAT,ALL GRDS,CKD,RSTD~^~Cube Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13401~^~1300~^~Beef, round, bottom round, separable lean and fat, trimmed to 0" fat, choice, cooked, braised~^~BEEF,RND,BTTM RND,LN&FAT,0"FAT,CHOIC,CKD,BRSD~^~Cube Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13402~^~1300~^~Beef, round, bottom round, separable lean and fat, trimmed to 0" fat, choice, cooked, roasted~^~BEEF,RND,BTTM RND,LN&FAT,0"FAT,CHOIC,CKD,RSTD~^~Cube Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13404~^~1300~^~Beef, round, bottom round, separable lean and fat, trimmed to 0" fat, select, cooked, braised~^~BEEF,RND,BTTM RND,LN&FAT,0"FAT,SEL,CKD,BRSD~^~Cube Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13405~^~1300~^~Beef, round, bottom round, separable lean and fat, trimmed to 0" fat, select, cooked, roasted~^~BEEF,RND,BTTM RND,LN&FAT,0"FAT,SEL,CKD,RSTD~^~Cube Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13407~^~1300~^~Beef, round, bottom round, separable lean only, trimmed to 0" fat, all grades, cooked, braised~^~BEEF,RND,BTTM RND,LN,0"FAT,ALL GRDS,CKD,BRSD~^~Cube Steak~^~~^~Y~^~2% connective tissue, 2% separable fat~^4^~~^6.25^4.27^9.02^3.87
+~13408~^~1300~^~Beef, round, bottom round, separable lean only, trimmed to 0" fat, all grades, cooked, roasted~^~BEEF,RND,BTTM RND,LN,0"FAT,ALL GRDS,CKD,RSTD~^~Cube Steak~^~~^~~^~2% separable fat, 1% connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13410~^~1300~^~Beef, round, bottom round, separable lean only, trimmed to 0" fat, choice, cooked, braised~^~BEEF,RND,BTTM RND,LN,0"FAT,CHOIC,CKD,BRSD~^~Cube steak~^~~^~~^~2% connective tissue, 3% separable fat~^5^~~^6.25^4.27^9.02^3.87
+~13411~^~1300~^~Beef, round, bottom round, separable lean only, trimmed to 0" fat, choice, cooked, roasted~^~BEEF,RND,BTTM RND,LN,0"FAT,CHOIC,CKD,RSTD~^~Cube steak~^~~^~~^~1% connective tissue, 2% separable fat~^3^~~^6.25^4.27^9.02^3.87
+~13413~^~1300~^~Beef, round, bottom round, separable lean only, trimmed to 0" fat, select, cooked, braised~^~BEEF,RND,BTTM RND,LN,0"FAT,SEL,CKD,BRSD~^~Cube steak~^~~^~~^~2% connective tissue, 2% separable fat~^4^~~^6.25^4.27^9.02^3.87
+~13414~^~1300~^~Beef, round, bottom round, separable lean only, trimmed to 0" fat, select, cooked, roasted~^~BEEF,RND,BTTM RND,LN,0"FAT,SEL,CKD,RSTD~^~Cube steak~^~~^~~^~1% connective tissue, 1% separable fat~^2^~~^6.25^4.27^9.02^3.87
+~13415~^~1300~^~Beef, round, eye of round, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted~^~BEEF,RND,EYE OF RND,LN&FAT,0"FAT,ALL GRDS,CKD,RSTD~^~Cube steak~^~~^~Y~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13416~^~1300~^~Beef, round, eye of round, separable lean and fat, trimmed to 0" fat, choice, cooked, roasted~^~BEEF,RND,EYE OF RND,LN&FAT,0"FAT,CHOIC,CKD,RSTD~^~Cube steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13417~^~1300~^~Beef, round, eye of round, separable lean and fat, trimmed to 0" fat, select, cooked, roasted~^~BEEF,RND,EYE OF RND,LN&FAT,0"FAT,SEL,CKD,RSTD~^~Cube steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13418~^~1300~^~Beef, round, eye of round, separable lean only, trimmed to 0" fat, all grades, cooked, roasted~^~BEEF,RND,EYE OF RND,LN,0"FAT,ALL GRDS,CKD,RSTD~^~Cube steak~^~~^~Y~^~2% connective tissue, 1% separable fat~^3^~~^6.25^4.27^9.02^3.87
+~13419~^~1300~^~Beef, round, eye of round, separable lean only, trimmed to 0" fat, choice, cooked, roasted~^~BEEF,RND,EYE OF RND,LN,0"FAT,CHOIC,CKD,RSTD~^~Cube steak~^~~^~~^~2% connective tissue, 1% separable fat~^3^~~^6.25^4.27^9.02^3.87
+~13420~^~1300~^~Beef, round, eye of round, separable lean only, trimmed to 0" fat, select, cooked, roasted~^~BEEF,RND,EYE OF RND,LN,0"FAT,SEL,CKD,RSTD~^~Cube Steak~^~~^~~^~2% connective tissue, 1% separable fat~^3^~~^6.25^4.27^9.02^3.87
+~13421~^~1300~^~Beef, round, tip round, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted~^~BEEF,RND,TIP RND,LN&FAT,0"FAT,ALL GRDS,CKD,RSTD~^~Cube steak~^~~^~Y~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13422~^~1300~^~Beef, round, tip round, separable lean and fat, trimmed to 0" fat, choice, cooked, roasted~^~BEEF,RND,TIP RND,LN&FAT,0"FAT,CHOIC,CKD,RSTD~^~Cube steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13423~^~1300~^~Beef, round, tip round, separable lean and fat, trimmed to 0" fat, select, cooked, roasted~^~BEEF,RND,TIP RND,LN&FAT,0"FAT,SEL,CKD,RSTD~^~Cube steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13424~^~1300~^~Beef, round, tip round, separable lean only, trimmed to 0" fat, all grades, cooked, roasted~^~BEEF,RND,TIP RND,LN,0"FAT,ALL GRDS,CKD,RSTD~^~Cube steak~^~~^~Y~^~3% connective tissue, 3% separable fat~^6^~~^6.25^4.27^9.02^3.87
+~13425~^~1300~^~Beef, round, tip round, separable lean only, trimmed to 0" fat, choice, cooked, roasted~^~BEEF,RND,TIP RND,LN,0"FAT,CHOIC,CKD,RSTD~^~Cube steak~^~~^~~^~3% connective tissue, 3% separable fat~^6^~~^6.25^4.27^9.02^3.87
+~13426~^~1300~^~Beef, round, tip round, separable lean only, trimmed to 0" fat, select, cooked, roasted~^~BEEF,RND,TIP RND,LN,0"FAT,SEL,CKD,RSTD~^~Cube steak~^~~^~~^~3% connective tissue, 3% separable fat~^6^~~^6.25^4.27^9.02^3.87
+~13427~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, all grades, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,ALL GRDS,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~Y~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13428~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,0"FAT,ALL GRDS,CKD,BRSD~^~London Broil, Minute Steak, Round Steak, Cube steak~^~~^~Y~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13429~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, choice, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,CHOIC,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13430~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 0" fat, choice, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,0"FAT,CHOIC,CKD,BRSD~^~London Broil, Minute Steak, Round Steak, Cube steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13431~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/4" fat, select, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,1/4"FAT,SEL,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13432~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 0" fat, select, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,0"FAT,SEL,CKD,BRSD~^~London Broil, Minute Steak, Round Steak, Cube steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13433~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, all grades, cooked, braised~^~BEEF,RND,TOP RND,LN,1/4"FAT,ALL GRDS,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~Y~^~3% connective tissue, 9% separable fat~^12^~~^6.25^4.27^9.02^3.87
+~13434~^~1300~^~Beef, round, top round, separable lean only, trimmed to 0" fat, all grades, cooked, braised~^~BEEF,RND,TOP RND,LN,0"FAT,ALL GRDS,CKD,BRSD~^~London Broil, Minute Steak, Round Steak, Cube steak~^~~^~Y~^~2% connective tissue, 2% separable fat~^4^~~^6.25^4.27^9.02^3.87
+~13435~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, choice, cooked, braised~^~BEEF,RND,TOP RND,LN,1/4"FAT,CHOIC,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~2% connective tissue, 10% separable fat~^12^~~^6.25^4.27^9.02^3.87
+~13436~^~1300~^~Beef, round, top round, separable lean only, trimmed to 0" fat, choice, cooked, braised~^~BEEF,RND,TOP RND,LN,0"FAT,CHOIC,CKD,BRSD~^~London Broil, Minute Steak, Round Steak, Cube steak~^~~^~~^~2% connective tissue, 2% separable fat~^4^~~^6.25^4.27^9.02^3.87
+~13437~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/4" fat, select, cooked, braised~^~BEEF,RND,TOP RND,LN,1/4"FAT,SEL,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~3% connective tissue, 8% separable fat~^11^~~^6.25^4.27^9.02^3.87
+~13438~^~1300~^~Beef, round, top round, separable lean only, trimmed to 0" fat, select, cooked, braised~^~BEEF,RND,TOP RND,LN,0"FAT,SEL,CKD,BRSD~^~London Broil, Minute Steak, Round Steak, Cube steak~^~~^~~^~2% connective tissue, 2% separable fat~^4^~~^6.25^4.27^9.02^3.87
+~13439~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,0"FAT,ALL GRDS,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~Y~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13440~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 0" fat, choice, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,0"FAT,CHOIC,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13441~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 0" fat, select, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,0"FAT,SEL,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13442~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 0" fat, all grades, cooked, broiled~^~BEEF,TENDERLOIN,LN,0"FAT,ALL GRDS,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~Y~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13443~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 0" fat, choice, cooked, broiled~^~BEEF,TENDERLOIN,LN,0"FAT,CHOIC,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13444~^~1300~^~Beef, tenderloin, separable lean only, trimmed to 0" fat, select, cooked, broiled~^~BEEF,TENDERLOIN,LN,0"FAT,SEL,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~2% connective tissue, 6% separable fat~^8^~~^6.25^4.27^9.02^3.87
+~13445~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,0"FAT,ALL GRDS,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~Y~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13446~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 0" fat, choice, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,0"FAT,CHOIC,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13447~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 0" fat, select, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,0"FAT,SEL,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13448~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 0" fat, all grades, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN,0"FAT,ALL GRDS,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~Y~^~2% connective tissue, 3% separable fat~^5^~~^6.25^4.27^9.02^3.87
+~13449~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 0" fat, choice, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN,0"FAT,CHOIC,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~2% connective tissue, 4% separable fat~^6^~~^6.25^4.27^9.02^3.87
+~13450~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 0" fat, select, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN,0"FAT,SEL,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~2% connective tissue, 2% separable fat~^4^~~^6.25^4.27^9.02^3.87
+~13451~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,0"FAT,ALL GRDS,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~Y~^~Connective tissue~^4^~~^6.25^4.27^9.02^3.87
+~13452~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 0" fat, choice, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,0"FAT,CHOIC,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^4^~~^6.25^4.27^9.02^3.87
+~13453~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 0" fat, select, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,0"FAT,SEL,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^4^~~^6.25^4.27^9.02^3.87
+~13454~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 0" fat, all grades, cooked, broiled~^~BEEF,TOP SIRLOIN,LN,0"FAT,ALL GRDS,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~Y~^~4% connective tissue, 4% separable fat~^8^~~^6.25^4.27^9.02^3.87
+~13455~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 0" fat, choice, cooked, broiled~^~BEEF,TOP SIRLOIN,LN,0"FAT,CHOIC,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~4% connective tissue, 6% separable fat~^1^~~^6.25^4.27^9.02^3.87
+~13456~^~1300~^~Beef, top sirloin, separable lean only, trimmed to 0" fat, select, cooked, broiled~^~BEEF,TOP SIRLOIN,LN,0"FAT,SEL,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~4% connective tissue, 3% separable fat~^7^~~^6.25^4.27^9.02^3.87
+~13555~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/2" fat, prime, raw~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/2"FAT,PRIME,RAW~^~Top Blade Steak~^~~^~~^~Bone~^21^~~^6.25^4.27^9.02^3.87
+~13556~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/2" fat, prime, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/2"FAT,PRIME,CKD,BRSD~^~Top Blade Steak~^~~^~~^~Bone~^24^~~^6.25^4.27^9.02^3.87
+~13563~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 1/2" fat, prime, raw~^~BEEF,CHUCK,BLADE RST,LN,1/2"FAT,PRIME,RAW~^~Top Blade Steak~^~~^~~^~21% bone, 21% separable fat~^42^~~^6.25^4.27^9.02^3.87
+~13564~^~1300~^~Beef, chuck, blade roast, separable lean only, trimmed to 1/2" fat, prime, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN,1/2"FAT,PRIME,CKD,BRSD~^~Top Blade Steak~^~~^~~^~24% bone, 21% separable fat~^45^~~^6.25^4.27^9.02^3.87
+~13645~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/2" fat, prime, cooked, broiled~^~BEEF,RIB,SML END (RIBS 10-12),LN,1/2"FAT,PRIME,CKD,BRLD~^~~^~~^~~^~20% bone, 20% separable fat~^40^~~^6.25^4.27^9.02^3.87
+~13714~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/2" fat, prime, raw~^~BEEF,RND,TOP RND,LN&FAT,1/2"FAT,PRIME,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13715~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/2" fat, prime, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/2"FAT,PRIME,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13724~^~1300~^~Beef, round, top round, separable lean only, trimmed to 1/2" fat, prime, cooked, broiled~^~BEEF,RND,TOP RND,LN,1/2"FAT,PRIME,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~2% connective tissue, 5% separable fat~^7^~~^6.25^4.27^9.02^3.87
+~13746~^~1300~^~Beef, short loin, tenderloin, separable lean and fat, trimmed to 1/2" fat, prime, raw~^~BEEF,SHRT LOIN,TENDERLOIN,LN&FAT,1/2"FAT,PRIME,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^4^~~^6.25^4.27^9.02^3.87
+~13747~^~1300~^~Beef, short loin, tenderloin, separable lean and fat, trimmed to 1/2" fat, prime, cooked, broiled~^~BEEF,SHRT LOIN,TENDERLOIN,LN&FAT,1/2"FAT,PRIME,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^4^~~^6.25^4.27^9.02^3.87
+~13748~^~1300~^~Beef, short loin, tenderloin, separable lean and fat, trimmed to 1/2" fat, prime, cooked, roasted~^~BEEF,SHRT LOIN,TENDERLOIN,LN&FAT,1/2"FAT,PRIME,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^6^~~^6.25^4.27^9.02^3.87
+~13759~^~1300~^~Beef, short loin, tenderloin, separable lean only, trimmed to 1/2" fat, prime, cooked, broiled~^~BEEF,SHRT LOIN,TENDERLOIN,LN,1/2"FAT,PRIME,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~4% connective tissue, 18% separable fat~^22^~~^6.25^4.27^9.02^3.87
+~13760~^~1300~^~Beef, short loin, tenderloin, separable lean only, trimmed to 1/2" fat, prime, cooked, roasted~^~BEEF,SHRT LOIN,TENDERLOIN,LN,1/2"FAT,PRIME,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~6% connective tissue, 23% separable fat~^29^~~^6.25^4.27^9.02^3.87
+~13767~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/2" fat, prime, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/2"FAT,PRIME,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13768~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/2" fat, prime, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/2"FAT,PRIME,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^8^~~^6.25^4.27^9.02^3.87
+~13776~^~1300~^~Beef, short loin, top loin, separable lean only, trimmed to 1/2" fat, prime, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN,1/2"FAT,PRIME,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~8% connective tissue, 20% separable fat~^28^~~^6.25^4.27^9.02^3.87
+~13803~^~1300~^~Beef, brisket, whole, separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,BRISKET,WHL,LN&FAT,1/8"FAT,ALL GRDS,RAW~^~~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13804~^~1300~^~Beef, brisket, whole, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, braised~^~BEEF,BRISKET,WHL,LN&FAT,1/8"FAT,ALL GRDS,CKD,BRSD~^~~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13807~^~1300~^~Beef, brisket, point half, separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,BRISKET,POINT HALF,LN&FAT,1/8"FAT,ALL GRDS,RAW~^~~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13815~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/8"FAT,ALL GRDS,RAW~^~Top Blade Steak~^~~^~~^~Bone~^19^~~^6.25^4.27^9.02^3.87
+~13816~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/8"FAT,ALL GRDS,CKD,BRSD~^~Top Blade Steak~^~~^~~^~Bone~^23^~~^6.25^4.27^9.02^3.87
+~13817~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8" fat, choice, raw~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/8"FAT,CHOIC,RAW~^~Top Blade Steak~^~~^~~^~Bone~^19^~~^6.25^4.27^9.02^3.87
+~13818~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8" fat, choice, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/8"FAT,CHOIC,CKD,BRSD~^~Top Blade Steak~^~~^~~^~Bone~^23^~~^6.25^4.27^9.02^3.87
+~13819~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8" fat, select, raw~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/8"FAT,SEL,RAW~^~Top Blade Steak~^~~^~~^~Bone~^19^~~^6.25^4.27^9.02^3.87
+~13820~^~1300~^~Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8" fat, select, cooked, braised~^~BEEF,CHUCK,BLADE RST,LN&FAT,1/8"FAT,SEL,CKD,BRSD~^~Top Blade Steak~^~~^~~^~Bone~^23^~~^6.25^4.27^9.02^3.87
+~13850~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,ALL GRDS,RAW~^~Prime Rib~^~~^~~^~Bone~^16^~~^6.25^4.27^9.02^3.87
+~13851~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, all grades, cooked, broiled~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,ALL GRDS,CKD,BR~^~Prime Rib~^~~^~~^~Bone~^21^~~^6.25^4.27^9.02^3.87
+~13852~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, all grades, cooked, roasted~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,ALL GRDS,CKD,RS~^~Prime Rib~^~~^~~^~Bone~^19^~~^6.25^4.27^9.02^3.87
+~13853~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, choice, raw~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,CHOIC,RAW~^~Prime Rib~^~~^~~^~Bone~^17^~~^6.25^4.27^9.02^3.87
+~13854~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,CHOIC,CKD,BRLD~^~Prime Rib~^~~^~~^~Bone~^20^~~^6.25^4.27^9.02^3.87
+~13855~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,CHOIC,CKD,RSTD~^~Prime Rib~^~~^~~^~Bone~^20^~~^6.25^4.27^9.02^3.87
+~13856~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, select, raw~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,SEL,RAW~^~Prime Rib~^~~^~~^~Bone~^16^~~^6.25^4.27^9.02^3.87
+~13857~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, select, cooked, broiled~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,SEL,CKD,BRLD~^~Prime Rib~^~~^~~^~Bone~^22^~~^6.25^4.27^9.02^3.87
+~13858~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, select, cooked, roasted~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,SEL,CKD,RSTD~^~Prime Rib~^~~^~~^~Bone~^18^~~^6.25^4.27^9.02^3.87
+~13859~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, prime, raw~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,PRIME,RAW~^~Prime Rib~^~~^~~^~Bone~^18^~~^6.25^4.27^9.02^3.87
+~13860~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, prime, cooked, broiled~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,PRIME,CKD,BRLD~^~Prime Rib~^~~^~~^~Bone~^21^~~^6.25^4.27^9.02^3.87
+~13861~^~1300~^~Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8" fat, prime, cooked, roasted~^~BEEF,RIB,SML END (RIBS 10-12),LN&FAT,1/8"FAT,PRIME,CKD,RSTD~^~Prime Rib~^~~^~~^~Bone~^21^~~^6.25^4.27^9.02^3.87
+~13877~^~1300~^~Beef, round, eye of round, separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,RND,EYE OF RND,LN&FAT,1/8"FAT,ALL GRDS,RAW~^~~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13881~^~1300~^~Beef, round, eye of round, separable lean and fat, trimmed to 1/8" fat, select, raw~^~BEEF,RND,EYE OF RND,LN&FAT,1/8"FAT,SEL,RAW~^~~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13891~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,ALL GRDS,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13892~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,ALL GRDS,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13893~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,ALL GRDS,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13894~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, choice, raw~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,CHOIC,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13895~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, choice, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,CHOIC,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13896~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,CHOIC,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13897~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, choice, cooked, pan-fried~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,CHOIC,CKD,PAN-FRIED~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13898~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, select, raw~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,SEL,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13899~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, select, cooked, braised~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,SEL,CKD,BRSD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13900~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, select, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,SEL,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13901~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, prime, raw~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,PRIME,RAW~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13902~^~1300~^~Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, prime, cooked, broiled~^~BEEF,RND,TOP RND,LN&FAT,1/8"FAT,PRIME,CKD,BRLD~^~London Broil, Minute Steak, Round Steak~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13909~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/8"FAT,ALL GRDS,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Bone~^9^~~^6.25^4.27^9.02^3.87
+~13910~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/8"FAT,ALL GRDS,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^9^~~^6.25^4.27^9.02^3.87
+~13911~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/8" fat, choice, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/8"FAT,CHOIC,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Bone~^10^~~^6.25^4.27^9.02^3.87
+~13912~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/8"FAT,CHOIC,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^8^~~^6.25^4.27^9.02^3.87
+~13913~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/8" fat, select, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/8"FAT,SEL,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^8^~~^6.25^4.27^9.02^3.87
+~13914~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/8" fat, select, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/8"FAT,SEL,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^9^~~^6.25^4.27^9.02^3.87
+~13915~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/8" fat, prime, raw~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/8"FAT,PRIME,RAW~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^6^~~^6.25^4.27^9.02^3.87
+~13916~^~1300~^~Beef, short loin, top loin, separable lean and fat, trimmed to 1/8" fat, prime, cooked, broiled~^~BEEF,SHRT LOIN,TOP LOIN,LN&FAT,1/8"FAT,PRIME,CKD,BRLD~^~Kansas City Strip, New York Strip, Club Steak~^~~^~~^~Connective tissue~^8^~~^6.25^4.27^9.02^3.87
+~13917~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,ALL GRDS,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13918~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,ALL GRDS,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13919~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, roasted~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,ALL GRDS,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13920~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, choice, raw~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,CHOIC,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13921~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,CHOIC,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13922~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,CHOIC,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13923~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, select, raw~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,SEL,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^1^~~^6.25^4.27^9.02^3.87
+~13924~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, select, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,SEL,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13925~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, select, cooked, roasted~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,SEL,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13926~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, prime, raw~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,PRIME,RAW~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13927~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, prime, cooked, broiled~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,PRIME,CKD,BRLD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13928~^~1300~^~Beef, tenderloin, separable lean and fat, trimmed to 1/8" fat, prime, cooked, roasted~^~BEEF,TENDERLOIN,LN&FAT,1/8"FAT,PRIME,CKD,RSTD~^~Filet Mignon, Beef Medallions~^~~^~~^~Connective tissue~^3^~~^6.25^4.27^9.02^3.87
+~13929~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/8" fat, all grades, raw~^~BEEF,TOP SIRLOIN,LN&FAT,1/8"FAT,ALL GRDS,RAW~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13930~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,1/8"FAT,ALL GRDS,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13931~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/8" fat, choice, raw~^~BEEF,TOP SIRLOIN,LN&FAT,1/8"FAT,CHOIC,RAW~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13932~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,1/8"FAT,CHOIC,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13933~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/8" fat, choice, cooked, pan-fried~^~BEEF,TOP SIRLOIN,LN&FAT,1/8"FAT,CHOIC,CKD,PAN-FRIED~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^2^~~^6.25^4.27^9.02^3.87
+~13934~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/8" fat, select, raw~^~BEEF,TOP SIRLOIN,LN&FAT,1/8"FAT,SEL,RAW~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~13935~^~1300~^~Beef, top sirloin, separable lean and fat, trimmed to 1/8" fat, select, cooked, broiled~^~BEEF,TOP SIRLOIN,LN&FAT,1/8"FAT,SEL,CKD,BRLD~^~Sirloin steak, Sirloin strip~^~~^~~^~Connective tissue~^5^~~^6.25^4.27^9.02^3.87
+~14010~^~1400~^~Alcoholic beverage, daiquiri, prepared-from-recipe~^~ALCOHOLIC BEV,DAIQUIRI,PREPARED-FROM-RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~14017~^~1400~^~Alcoholic beverage, pina colada, prepared-from-recipe~^~ALCOHOLIC BEV,PINA COLADA,PREPARED-FROM-RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~14025~^~1400~^~Alcoholic beverage, whiskey sour, prepared with water, whiskey and powder mix~^~ALCOHOLIC BEV,WHISKEY SOUR,PREP W/H2O,WHISKEY&PDR MIX~^~~^~~^~~^~~^0^~~^0.00^^^
+~14029~^~1400~^~Alcoholic beverage, whiskey sour, prepared from item 14028~^~ALCOHOLIC BEV,WHISKEY SOUR,PREP FROM ITEM 14028~^~~^~~^~~^~~^0^~~^0.00^^^
+~14037~^~1400~^~Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof~^~ALCOHOLIC BEV,DISTILLED,ALL (GIN,RUM,VODKA,WHISKEY) 80 PROOF~^~~^~~^~Y~^~~^0^~~^6.25^^^4.12
+~14049~^~1400~^~Alcoholic beverage, distilled, gin, 90 proof~^~ALCOHOLIC BEV,DISTILLED,GIN,90 PROOF~^~~^~~^~Y~^~~^0^~~^6.25^^^4.12
+~14050~^~1400~^~Alcoholic beverage, distilled, rum, 80 proof~^~ALCOHOLIC BEV,DISTILLED,RUM,80 PROOF~^~~^~~^~Y~^~~^0^~~^6.25^^^4.12
+~14051~^~1400~^~Alcoholic beverage, distilled, vodka, 80 proof~^~ALCOHOLIC BEV,DISTILLED,VODKA,80 PROOF~^~~^~~^~~^~~^0^~~^6.25^^^4.12
+~14052~^~1400~^~Alcoholic beverage, distilled, whiskey, 86 proof~^~ALCOHOLIC BEV,DISTILLED,WHISKEY,86 PROOF~^~~^~~^~~^~~^0^~~^6.25^^^4.12
+~14121~^~1400~^~Carbonated beverage, club soda~^~CARBONATED BEV,CLUB SODA~^~soft drink~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14130~^~1400~^~Carbonated beverage, cream soda~^~CARBONATED BEV,CRM SODA~^~soft drink, pop~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14136~^~1400~^~Carbonated beverage, ginger ale~^~CARBONATED BEV,GINGER ALE~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14142~^~1400~^~Carbonated beverage, grape soda~^~CARBONATED BEV,GRAPE SODA~^~soft drink, pop~^~~^~~^~~^0^~~^6.25^3.36^8.37^3.87
+~14143~^~1400~^~Carbonated beverage, low calorie, other than cola or pepper, with aspartame, without caffeine~^~CARBONATED BEV,LO CAL,OTHER THN COLA OR PPPR,W/ASPRT,WO/CAFF~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^^4.00^9.00^4.00
+~14144~^~1400~^~Carbonated beverage, lemon-lime soda, contains caffeine~^~CARBONATED BEV,LEMON-LIME SODA,CONTAINS CAFFEINE~^~soft drink, pop~^~~^~Y~^~~^0^~~^^^^
+~14145~^~1400~^~Carbonated beverage, lemon-lime soda~^~CARBONATED BEV,LEMON-LIME SODA~^~soft drink, pop~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14146~^~1400~^~Carbonated beverage, low calorie, cola, with aspartame, without caffeine~^~CARBONATED BEV,LO CAL,COLA,W/ASPRT,WO/CAFFEINE~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^^^^
+~14147~^~1400~^~Carbonated beverage, cola, without caffeine~^~CARBONATED BEV,COLA,WO/CAFFEINE~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^^^^
+~14150~^~1400~^~Carbonated beverage, orange~^~CARBONATED BEV,ORANGE~^~soft drink, soda, pop~^~~^~~^~~^0^~~^6.25^3.36^8.37^3.87
+~14153~^~1400~^~Carbonated beverage, pepper-type, contains caffeine~^~CARBONATED BEV,PEPPER-TYPE,CONTAINS CAFFEINE~^~soft drink, soda, pop~^~~^~~^~~^0^~~^6.25^3.36^8.37^3.87
+~14155~^~1400~^~Carbonated beverage, tonic water~^~CARBONATED BEV,TONIC H2O~^~soft drink, soda~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14157~^~1400~^~Carbonated beverage, root beer~^~CARBONATED BEV,ROOT BEER~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14166~^~1400~^~Carbonated beverage, low calorie, cola or pepper-types, with sodium saccharin, contains caffeine~^~CARBONATED BEV,LO CAL,COLA OR PEP-TYPE,W/NA SACHRN,CNTNS CAF~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14169~^~1400~^~Carob-flavor beverage mix, powder, prepared with milk~^~CAROB-FLAVOR BEV MIX,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14177~^~1400~^~Chocolate-flavor beverage mix, powder, prepared with milk~^~CHOCOLATE-FLAVOR BEV MIX,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14178~^~1400~^~KRAFT, KOOL-AID SPLASH Soft Drink Grape Berry Punch, ready-to-drink~^~KRAFT,KOOL-AID SPLASH SOFT DRINK GRAPE BERRY PUNCH,RTD~^~~^~~^~~^~~^0^~~^^^^
+~14182~^~1400~^~Chocolate syrup, without added nutrients, prepared with milk~^~CHOCOLATE SYRUP,WO/ADDED NUTR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14186~^~1400~^~Chocolate syrup, with added nutrients, prepared with milk~^~CHOCOLATE SYRUP,W/ADDED NUTR,PREP W/MILK~^~~^~~^~~^~~^0^~~^5.00^^^
+~14194~^~1400~^~Cocoa mix, without added nutrients, powder, prepared with water~^~COCOA MIX,WO/ADDED NUTR,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14215~^~1400~^~Coffee, instant, regular, prepared with water~^~COFFEE,INST,REG,PREP W/H2O~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~14219~^~1400~^~Coffee, instant, decaffeinated, powder, prepared with water~^~COFFEE,INST,DECAFFEINATED,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14223~^~1400~^~Coffee, instant, with chicory, prepared with water~^~COFFEE,INST,W/CHICORY,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14237~^~1400~^~Coffee substitute, cereal grain beverage, prepared with water~^~COFFEE SUB,CRL GRAIN BEV,PREP W/H2O~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~14245~^~1400~^~Eggnog-flavor mix, powder, prepared with milk~^~EGGNOG-FLAVOR MIX,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14263~^~1400~^~Citrus fruit juice drink, frozen concentrate, prepared with water~^~CITRUS FRUIT JUC DRK,FRZ CONC,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14266~^~1400~^~Fruit punch-flavor drink, powder, with added sodium, prepared with water~^~FRUIT PUNCH-FLAVOR DRK,PDR,W/ NA,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14269~^~1400~^~Fruit punch drink, frozen concentrate, prepared with water~^~FRUIT PUNCH DRK,FRZ CONC,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14288~^~1400~^~Lemonade, powder, prepared with water~^~LEMONADE,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14290~^~1400~^~Lemonade, low calorie, with aspartame, powder, prepared with water~^~LEMONADE,LO CAL,W/ASPRT,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14293~^~1400~^~Lemonade, frozen concentrate, white, prepared with water~^~LEMONADE,FRZ CONC,WHITE,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14297~^~1400~^~Lemonade-flavor drink, powder, prepared with water~^~LEMONADE-FLAVOR DRK,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14303~^~1400~^~Limeade, frozen concentrate, prepared with water~^~LIMEADE,FRZ CONC,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14310~^~1400~^~Malted milk-flavor mix, natural, added nutrients, powder, prepared with milk~^~MALTED MILK-FLAVOR MIX,NAT,ADDED NUTR,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14312~^~1400~^~Malted milk-flavor mix, natural, no added nutrients, powder, prepared with milk~^~MALTED MILK-FLAVOR MIX,NAT,NO ADDED NUTR,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14316~^~1400~^~Malted milk-flavor mix, chocolate, added nutrients, powder, prepared with milk~^~MALTED MILK-FLAVOR MIX,CHOC,ADDED NUTR,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14318~^~1400~^~Malted milk-flavor mix, chocolate, no added nutrients, powder, prepared with milk~^~MALTED MILK-FLAVOR MIX,CHOC,NO ADDED NUTR,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14351~^~1400~^~Strawberry-flavor beverage mix, powder, prepared with milk~^~STRAWBERRY-FLAVOR BEV MIX,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14352~^~1400~^~Tea, brewed, prepared with tap water, decaffeinated~^~TEA,BREWED,PREP W/TAP H2O,DECAFFEINATED~^~black tea~^~~^~Y~^~~^0^~~^^^^
+~14355~^~1400~^~Tea, brewed, prepared with tap water~^~TEA,BREWED,PREP W/TAP H2O~^~black tea~^~~^~Y~^~~^0^~~^6.25^2.44^8.37^3.57
+~14367~^~1400~^~Tea, instant, unsweetened, powder, prepared~^~TEA,INST,UNSWTND,PDR,PREP~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~14369~^~1400~^~Tea, instant, unsweetened, lemon-flavored, powder, prepared~^~TEA,INST,UNSWTND,LEMON-FLAVORED,PDR,PREP~^~~^~~^~~^~~^0^~~^0.00^^^
+~14371~^~1400~^~Tea, instant, sweetened with sugar, lemon-flavored, without added ascorbic acid, powder, prepared~^~TEA,INST,SWTND W/SUGAR,LEMON-FLAVORED,WO/ VIT C,PDR,PREP~^~~^~~^~~^~~^0^~~^0.00^^^
+~14376~^~1400~^~Tea, instant, sweetened with sodium saccharin, lemon-flavored, prepared~^~TEA,INST,SWTND W/NA SACCHARIN,LEMON-FLAVORED,PREP~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~14384~^~1400~^~Water, bottled, perrier~^~WATER,BOTTLED,PERRIER~^~~^~~^~~^~~^0^~~^6.25^^^
+~14385~^~1400~^~Water, bottled, poland spring~^~WATER,BTLD,POLAND SPRING~^~~^~~^~~^~~^0^~~^6.25^^^
+~14390~^~1400~^~Cocoa mix, with aspartame, prepared from item 14196~^~COCOA MIX,W/ASPRT,PREP FROM ITEM 14196~^~~^~~^~~^~~^0^~~^0.00^^^
+~14397~^~1400~^~Gelatin, drinking, orange-flavor, powder, prepared with water~^~GELATIN,DRINKING,ORANGE-FLAVOR,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14400~^~1400~^~Carbonated beverage, cola, contains caffeine~^~CARBONATED BEV,COLA,CONTAINS CAFFEINE~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14406~^~1400~^~Fruit punch juice drink, frozen concentrate, prepared with water~^~FRUIT PUNCH JUC DRK,FRZ CONC,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14408~^~1400~^~Orange-flavor drink, breakfast type, powder, prepared with water~^~ORANGE-FLAVOR DRK,BRKFST TYPE,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14416~^~1400~^~Carbonated beverage, low calorie, cola, with aspartame, contains caffeine~^~CARBONATED BEV,LO CAL,COLA,W/ASPRT,CONTAINS CAFFEINE~^~soft drink, soda, pop~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.87
+~14417~^~1400~^~Cocoa mix, with added nutrients, powder, prepared with water~^~COCOA MIX,W/ADDED NUTR,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14421~^~1400~^~Coffee substitute, cereal grain beverage, powder, prepared with milk~^~COFFEE SUB,CRL GRAIN BEV,PDR,PREP W/MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~14423~^~1400~^~Dairy drink mix, chocolate, reduced calorie, with aspartame, powder, prepared with water~^~DAIRY DRK MIX,CHOC,RED CAL,W/ASPRT,PDR,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14425~^~1400~^~Orange-flavor drink, breakfast type, with pulp, frozen concentrate, prepared with water~^~ORANGE-FLAVOR DRK,BRKFST TYPE,W/PULP,FRZ CONC,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14427~^~1400~^~Orange drink, breakfast type, with juice and pulp, frozen concentrate, prepared with water~^~ORANGE DRK,BRKFST TYPE,W/JUC&PULP,FRZ CONC,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14429~^~1400~^~Water, municipal~^~WATER,MUNICIPAL~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~14431~^~1400~^~Cranberry juice cocktail, frozen concentrate, prepared with water~^~CRANBERRY JUC COCKTAIL,FRZ CONC,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14531~^~1400~^~Alcoholic beverage, whiskey sour, prepared from item 14530~^~ALCOHOLIC BEV,WHISKEY SOUR,PREP FROM ITEM 14530~^~~^~~^~~^~~^0^~~^0.00^^^
+~14532~^~1400~^~Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 94 proof~^~ALCOHOLIC BEV,DISTILLED,ALL (GIN,RUM,VODKA,WHISKEY) 94 PROOF~^~~^~~^~~^~~^0^~~^6.25^^^4.12
+~14533~^~1400~^~Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 100 proof~^~ALCOHOLIC BEV,DISTILLED,ALL 100 PROOF~^~~^~~^~~^~~^0^~~^6.25^^^4.12
+~14537~^~1400~^~Carbonated beverage, low calorie, other than cola or pepper, with sodium saccharin, without caffeine~^~CARBONATED BEV,LOCAL,OTHR THAN COLA OR PEP,W/ NA SAC,WO/ CAF~^~soft drink, soda, pop~^~~^~~^~~^0^~~^6.25^3.36^8.37^3.87
+~14541~^~1400~^~Fruit punch-flavor drink, powder, without added sodium, prepared with water~^~FRUIT PUNCH-FLAVOR DRK,PDR,WO/ NA,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14543~^~1400~^~Lemonade, frozen concentrate, pink, prepared with water~^~LEMONADE,FRZ CONC,PINK,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~14544~^~1400~^~Tea, brewed, prepared with distilled water~^~TEA,BREWED,PREP W/DISTILLED H2O~^~black tea~^~~^~~^~~^0^~~^6.25^2.44^8.37^3.57
+~14546~^~1400~^~Cocoa mix, with aspartame, prepared from item 14538~^~COCOA MIX,W/ASPRT,PREP FROM ITEM 14538~^~~^~~^~~^~~^0^~~^0.00^^^
+~14549~^~1400~^~Tea, instant, sweetened with sugar, lemon-flavored, with added ascorbic acid, powder, prepared~^~TEA,INST,SWTND W/SUGAR,LEMON-FLAVORED,W/ VIT C,PDR,PREP~^~~^~~^~~^~~^0^~~^0.00^^^
+~14550~^~1400~^~Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof~^~ALCOHOLIC BEV,DISTILLED,ALL (GIN,RUM,VODKA,WHISKEY) 86 PROOF~^~~^~~^~Y~^~~^0^~~^6.25^^^4.12
+~14551~^~1400~^~Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 90 proof~^~ALCOHOLIC BEV,DISTILLED,ALL (GIN,RUM,VODKA,WHISKEY) 90 PROOF~^~~^~~^~Y~^~~^0^~~^6.25^^^4.12
+~16137~^~1600~^~Hummus, home-prepared~^~HUMMUS,HOME-PREPARED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~16138~^~1600~^~Falafel, home-prepared~^~FALAFEL,HOME-PREPARED~^~~^~~^~~^~~^0^~~^0.00^^^
+~16174~^~1600~^~Tempeh, cooked~^~TEMPEH,CKD~^~~^~~^~~^~~^0^~~^5.71^3.47^8.37^4.07
+~18002~^~1800~^~Bagels, plain, toasted, enriched, with calcium propionate (includes onion, poppy, sesame)~^~BAGELS,PLN,TSTD,ENR,W/CA PROP (INCL ONION,POPPY,SESAME)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18006~^~1800~^~Bagels, cinnamon-raisin, toasted~^~BAGELS,CINNAMON-RAISIN,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18013~^~1800~^~Biscuits, plain or buttermilk, refrigerated dough, lower fat, baked~^~BISCUITS,PLN OR BTTRMLK,REFR DOUGH,LOWER FAT,BKD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18015~^~1800~^~Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked~^~BISCUITS,PLN OR BTTRMLK,REFR DOUGH,HIGHER FAT,BKD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18016~^~1800~^~Biscuits, plain or buttermilk, prepared from recipe~^~BISCUITS,PLN OR BTTRMLK,PREP FROM RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18019~^~1800~^~Bread, banana, prepared from recipe, made with margarine~^~BREAD,BANANA,PREP FROM RECIPE,MADE W/MARGARINE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18024~^~1800~^~Bread, cornbread, prepared from recipe, made with low fat (2%) milk~^~BREAD,CORNBREAD,PREP FROM RECIPE,MADE W/LOFAT (2%) MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~18027~^~1800~^~Bread, egg~^~BREAD,EGG~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18028~^~1800~^~Bread, egg, toasted~^~BREAD,EGG,TOASTED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18029~^~1800~^~Bread, french or vienna (includes sourdough)~^~BREAD,FRENCH OR VIENNA (INCLUDES SOURDOUGH)~^~~^~~^~Y~^~~^0^~~^5.70^4.00^8.70^4.10
+~18030~^~1800~^~Bread, french or vienna, toasted (includes sourdough)~^~BREAD,FRENCH OR VIENNA,TSTD (INCLUDES SOURDOUGH)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18031~^~1800~^~Bread, indian (navajo) fry~^~BREAD,INDIAN (NAVAJO) FRY~^~~^~~^~~^~~^0^~~^0.00^^^
+~18036~^~1800~^~Bread, mixed-grain, toasted (includes whole-grain, 7-grain)~^~BREAD,MIXED-GRAIN,TSTD (INCL WHOLE-GRAIN,7-GRAIN)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18038~^~1800~^~Bread, oat bran, toasted~^~BREAD,OAT BRAN,TOASTED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18040~^~1800~^~Bread, oatmeal, toasted~^~BREAD,OATMEAL,TOASTED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18045~^~1800~^~Bread, pumpernickel, toasted~^~BREAD,PUMPERNICKEL,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18048~^~1800~^~Bread, raisin, toasted, enriched~^~BREAD,RAISIN,TSTD,ENR~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18050~^~1800~^~Bread, reduced-calorie, oat bran, toasted~^~BREAD,RED-CAL,OAT BRAN,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18061~^~1800~^~Bread, rye, toasted~^~BREAD,RYE,TOASTED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18065~^~1800~^~Bread, wheat, toasted (includes wheat berry)~^~BREAD,WHEAT,TSTD (INCL WHEAT BERRY)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18070~^~1800~^~Bread, white, commercially prepared, toasted~^~BREAD,WHITE,COMMLY PREP,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18071~^~1800~^~Bread, white, prepared from recipe, made with nonfat dry milk~^~BREAD,WHITE,PREP FROM RECIPE,MADE W/NONFAT DRY MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~18073~^~1800~^~Bread, white, prepared from recipe, made with low fat (2%) milk~^~BREAD,WHITE,PREP FROM RECIPE,MADE W/LOFAT (2%) MILK~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18076~^~1800~^~Bread, whole-wheat, commercially prepared, toasted~^~BREAD,WHOLE-WHEAT,COMMLY PREP,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18077~^~1800~^~Bread, whole-wheat, prepared from recipe~^~BREAD,WHOLE-WHEAT,PREP FROM RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18078~^~1800~^~Bread, whole-wheat, prepared from recipe, toasted~^~BREAD,WHOLE-WHEAT,PREP FROM RECIPE,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18082~^~1800~^~Bread stuffing, bread, dry mix, prepared~^~BREAD STUFFING,BREAD,DRY MIX,PREP~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18085~^~1800~^~Bread stuffing, cornbread, dry mix, prepared~^~BREAD STUFFING,CORNBREAD,DRY MIX,PREP~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18088~^~1800~^~Cake, angelfood, dry mix, prepared~^~CAKE,ANGELFOOD,DRY MIX,PREP~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18101~^~1800~^~Cake, chocolate, prepared from recipe without frosting~^~CAKE,CHOC,PREP FROM RECIPE WO/FRSTNG~^~~^~~^~~^~~^0^~~^0.00^^^
+~18102~^~1800~^~Cake, white, prepared from recipe with coconut frosting~^~CAKE,WHITE,PREP FROM RECIPE W/COCNT FRSTNG~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18108~^~1800~^~Coffeecake, cinnamon with crumb topping, dry mix, prepared~^~COFFEECAKE,CINN W/CRUMB TOPPING,DRY MIX,PREP~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18116~^~1800~^~Cake, gingerbread, prepared from recipe~^~CAKE,GINGERBREAD,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18119~^~1800~^~Cake, pineapple upside-down, prepared from recipe~^~CAKE,PNAPPL UPSIDE-DOWN,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18133~^~1800~^~Cake, sponge, commercially prepared~^~CAKE,SPONGE,COMMLY PREP~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18134~^~1800~^~Cake, sponge, prepared from recipe~^~CAKE,SPONGE,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18139~^~1800~^~Cake, white, prepared from recipe without frosting~^~CAKE,WHITE,PREP FROM RECIPE WO/FRSTNG~^~~^~~^~~^~~^0^~~^0.00^^^
+~18146~^~1800~^~Cake, yellow, prepared from recipe without frosting~^~CAKE,YEL,PREP FROM RECIPE WO/FRSTNG~^~~^~~^~~^~~^0^~~^0.00^^^
+~18154~^~1800~^~Cookies, brownies, prepared from recipe~^~COOKIES,BROWNIES,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18165~^~1800~^~Cookies, chocolate chip, prepared from recipe, made with margarine~^~COOKIES,CHOC CHIP,PREP FROM RECIPE,MADE W/MARGARINE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18169~^~1800~^~Cookies, coconut macaroons, prepared from recipe~^~COOKIES,COCNT MACAROONS,PREP FROM RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18175~^~1800~^~Cookies, ladyfingers, with lemon juice and rind~^~COOKIES,LADYFINGERS,W/LEMON JUC&RIND~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18184~^~1800~^~Cookies, oatmeal, prepared from recipe, with raisins~^~COOKIES,OATMEAL,PREP FROM RECIPE,W/RAISINS~^~~^~~^~~^~~^0^~~^0.00^^^
+~18189~^~1800~^~Cookies, peanut butter, prepared from recipe~^~COOKIES,PNUT BUTTER,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18197~^~1800~^~Cookies, brownies, dry mix, special dietary, prepared~^~COOKIES,BROWNIES,DRY MIX,SPL DIETARY,PREP~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18206~^~1800~^~Cookies, sugar, refrigerated dough, baked~^~COOKIES,SUGAR,REFR DOUGH,BKD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18208~^~1800~^~Cookies, sugar, prepared from recipe, made with margarine~^~COOKIES,SUGAR,PREP FROM RECIPE,MADE W/MARGARINE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18211~^~1800~^~Puff pastry, frozen, ready-to-bake, baked~^~PUFF PASTRY,FRZ,RTB,BKD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18217~^~1800~^~Crackers, matzo, plain~^~CRACKERS,MATZO,PLN~^~~^~~^~Y~^~~^0^~~^5.70^4.00^8.40^4.10
+~18237~^~1800~^~Cream puffs, prepared from recipe, shell (includes eclair)~^~CREAM PUFFS,PREP FROM RECIPE,SHELL (INCL ECLAIR)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18238~^~1800~^~Cream puffs, prepared from recipe, shell, with custard filling~^~CREAM PUFFS,PREP FROM RECIPE,SHELL,W/CUSTARD FILLING~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18257~^~1800~^~Eclairs, custard-filled with chocolate glaze, prepared from recipe~^~ECLAIRS,CUSTARD-FILLED W/CHOC GLAZE,PREP FROM RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18259~^~1800~^~English muffins, plain, toasted, enriched, with calcium propionate (includes sourdough)~^~ENGLISH MUFFINS,PLN,TSTD,ENR,W/CA PROP (INCL SOURDOUGH)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18261~^~1800~^~English muffins, mixed-grain, toasted (includes granola)~^~ENGLISH MUFFINS,MIXED-GRAIN,TSTD (INCL GRANOLA)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18263~^~1800~^~English muffins, raisin-cinnamon, toasted (includes apple-cinnamon)~^~ENGLISH MUFFINS,RAISIN-CINNAMON,TSTD (INCL APPLE-CINNAMON)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18265~^~1800~^~English muffins, wheat, toasted~^~ENGLISH MUFFINS,WHEAT,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18267~^~1800~^~English muffins, whole-wheat, toasted~^~ENGLISH MUFFINS,WHOLE-WHEAT,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18269~^~1800~^~French toast, prepared from recipe, made with low fat (2%) milk~^~FRENCH TOAST,PREP FROM RECIPE,MADE W/LOFAT (2%) MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~18270~^~1800~^~Hush puppies, prepared from recipe~^~HUSH PUPPIES,PREP FROM RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18273~^~1800~^~Muffins, plain, prepared from recipe, made with low fat (2%) milk~^~MUFFINS,PLN,PREP FROM RECIPE,MADE W/LOFAT (2%) MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~18278~^~1800~^~Muffins, blueberry, prepared from recipe, made with low fat (2%) milk~^~MUFFINS,BLUEBERRY,PREP FROM RECIPE,MADE W/LOFAT (2%) MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~18282~^~1800~^~Muffins, corn, prepared from recipe, made with low fat (2%) milk~^~MUFFINS,CORN,PREP FROM RECIPE,MADE W/LOFAT (2%) MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~18293~^~1800~^~Pancakes, plain, prepared from recipe~^~PANCAKES,PLN,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18294~^~1800~^~Pancakes, blueberry, prepared from recipe~^~PANCAKES,BLUEBERRY,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18302~^~1800~^~Pie, apple, prepared from recipe~^~PIE,APPL,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18304~^~1800~^~Pie, banana cream, prepared from recipe~^~PIE,BANANA CRM,PREP FROM RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18306~^~1800~^~Pie, blueberry, prepared from recipe~^~PIE,BLUEBERRY,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18309~^~1800~^~Pie, cherry, prepared from recipe~^~PIE,CHERRY,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18321~^~1800~^~Pie, lemon meringue, prepared from recipe~^~PIE,LEMON MERINGUE,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18322~^~1800~^~Pie, mince, prepared from recipe~^~PIE,MINCE,PREP FROM RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18325~^~1800~^~Pie, pecan, prepared from recipe~^~PIE,PECAN,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18327~^~1800~^~Pie, pumpkin, prepared from recipe~^~PIE,PUMPKIN,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18328~^~1800~^~Pie, vanilla cream, prepared from recipe~^~PIE,VANILLA CRM,PREP FROM RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18330~^~1800~^~Pie crust, cookie-type, prepared from recipe, graham cracker, baked~^~PIE CRUST,COOKIE-TYPE,PREP FROM RECIPE,GRAHAM CRACKER,BKD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18335~^~1800~^~Pie crust, standard-type, frozen, ready-to-bake, baked~^~PIE CRUST,STANDARD-TYPE,FRZ,RTB,BKD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18336~^~1800~^~Pie crust, standard-type, prepared from recipe, baked~^~PIE CRUST,STANDARD-TYPE,PREP FROM RECIPE,BKD~^~~^~~^~~^~~^0^~~^0.00^^^
+~18337~^~1800~^~Puff pastry, frozen, ready-to-bake~^~PUFF PASTRY,FRZ,RTB~^~~^~~^~~^~~^0^~~^0.00^^^
+~18338~^~1800~^~Phyllo dough~^~PHYLLO DOUGH~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18348~^~1800~^~Rolls, dinner, whole-wheat~^~ROLLS,DINNER,WHOLE-WHEAT~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18367~^~1800~^~Waffles, plain, prepared from recipe~^~WAFFLES,PLN,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18368~^~1800~^~Wonton wrappers (includes egg roll wrappers)~^~WONTON WRAPPERS (INCL EGG ROLL WRAPPERS)~^~~^~~^~~^~~^0^~~^0.00^^^
+~18372~^~1800~^~Leavening agents, baking soda~^~LEAVENING AGENTS,BAKING SODA~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18377~^~1800~^~Cookies, oatmeal, prepared from recipe, without raisins~^~COOKIES,OATMEAL,PREP FROM RECIPE,WO/RAISINS~^~~^~~^~~^~~^0^~~^0.00^^^
+~18378~^~1800~^~Cookies, chocolate chip, prepared from recipe, made with butter~^~COOKIES,CHOC CHIP,PREP FROM RECIPE,MADE W/BUTTER~^~~^~~^~~^~~^0^~~^0.00^^^
+~18383~^~1800~^~Bread, protein, toasted (includes gluten)~^~BREAD,PROT,TSTD (INCL GLUTEN)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18384~^~1800~^~Bread, rice bran, toasted~^~BREAD,RICE BRAN,TOASTED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18385~^~1800~^~Bread, wheat germ, toasted~^~BREAD,WHEAT GERM,TOASTED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18386~^~1800~^~Muffins, blueberry, toaster-type, toasted~^~MUFFINS,BLUEBERRY,TOASTER-TYPE,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18388~^~1800~^~Muffins, wheat bran, toaster-type with raisins, toasted~^~MUFFINS,WHEAT BRAN,TOASTER-TYPE W/RAISINS,TSTD~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18390~^~1800~^~Pancakes, buttermilk, prepared from recipe~^~PANCAKES,BTTRMLK,PREP FROM RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~18396~^~1800~^~Rolls, dinner, plain, prepared from recipe, made with low fat (2%) milk~^~ROLLS,DINNER,PLN,PREP FROM RECIPE,MADE W/LOFAT (2%) MILK~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18398~^~1800~^~Pie crust, cookie-type, prepared from recipe, chocolate wafer, chilled~^~PIE CRUST,COOKIE-TYPE,PREP FROM RECIPE,CHOC WAFER,CHILLED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18399~^~1800~^~Pie crust, cookie-type, prepared from recipe, graham cracker, chilled~^~PIE CRUST,COOKIE-TYPE,PREP FR RECIPE,GRAHAM CRACKER,CHILLED~^~~^~~^~~^~~^0^~~^0.00^^^
+~18401~^~1800~^~Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled~^~PIE CRUST,COOKIE-TYPE,PREP FROM RECIPE,VANILLA WAFER,CHILLED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18402~^~1800~^~Pie crust, standard-type, prepared from recipe, unbaked~^~PIE CRUST,STANDARD-TYPE,PREP FROM RECIPE,UNBAKED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18403~^~1800~^~Waffles, plain, frozen, ready-to-heat, toasted (includes buttermilk)~^~WAFFLES,PLN,FRZ,RTH,TSTD (INCL BTTRMLK)~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~18423~^~1800~^~Cookies, ladyfingers, without lemon juice and rind~^~COOKIES,LADYFINGERS,WO/LEMON JUC&RIND~^~~^~~^~~^~~^0^~~^0.00^^^
+~18475~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Apple cinnamon~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,APPL CINN~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18476~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Blueberry~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,BLUEBERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18477~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted blueberry~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,FRSTD BLUEBERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18478~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Brown sugar cinnamon~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,BRWN SUGAR CINN~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18479~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted brown sugar cinnamon~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TRTS,FRSTD BR SGR CIN~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18480~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Cherry~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POPTARTS,CHERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18481~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted cherry~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,FRSTD CHERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18482~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted chocolate fudge~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,FRSTD CHOC FUDG~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18483~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted chocolate vanilla creme~^~TOASTER PASTRIES,KELLOGG,KELLOG POP TARTS,FRSTD CHOC VAN CRM~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18484~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted grape~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,FRSTD GRAPE~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18485~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Milk chocolate~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,MILK CHOC~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18486~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted raspberry~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,FRSTD RASPBERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18487~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, S'mores~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,S'MORES~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18488~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Strawberry~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,STRAWBERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18489~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted strawberry~^~TOASTER PASTRIES,KELLOGG,KELLOG'S POP TARTS,FRSTD STRAWBERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18490~^~1800~^~Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted wild berry~^~TOASTER PASTRIES,KELLOGG,KELLOGG'S POP TARTS,FRSTD WLD BERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18491~^~1800~^~KELLOGG, KELLOGG'S LOW FAT POP TARTS, Frosted apple cinnamon~^~KELLOGG,KELLOGG'S LOFAT POP TARTS,FRSTD APPL CINN~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18492~^~1800~^~KELLOGG, KELLOGG'S LOW FAT POP TARTS, Blueberry~^~KELLOGG,KELLOGG'S LOFAT POP TARTS,BLUEBERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18493~^~1800~^~KELLOGG, KELLOGG'S LOW FAT POP TARTS, Cherry~^~KELLOGG,KELLOGG'S LOFAT POP TARTS,CHERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18494~^~1800~^~KELLOGG, KELLOGG'S LOW FAT POP TARTS, Frosted brown sugar cinnamon~^~KELLOGG,KELLOGG'S LOFAT POP TARTS,FRSTD BROWN SUGAR CINN~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18495~^~1800~^~KELLOGG, KELLOGG'S LOW FAT POP TARTS, Frosted chocolate fudge~^~KELLOGG,KELLOGG'S LOFAT POP TARTS,FRSTD CHOC FUDGE~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18496~^~1800~^~KELLOGG, KELLOGG'S LOW FAT POP TARTS, Strawberry~^~KELLOGG,KELLOGG'S LOFAT POP TARTS,STRAWBERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18497~^~1800~^~KELLOGG, KELLOGG'S LOW FAT POP TARTS, Frosted strawberry~^~KELLOGG,KELLOGG'S LOFAT POP TARTS,FRSTD STRAWBERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18498~^~1800~^~KELLOGG, KELLOGG'S POP TARTS, Frosted Wild Watermelon~^~KELLOGG,KELLOGG'S POP TARTS,FRSTD WILD WATERMELON~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18499~^~1800~^~KELLOGG, KELLOGG'S EGGO, Buttermilk Pancake~^~KELLOGG,KELLOGG'S EGGO,BTTRMLK PANCAKE~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18500~^~1800~^~KELLOGG, KELLOGG'S EGGO, Banana Bread Waffles~^~KELLOGG,KELLOGG'S EGGO,BANANA BREAD WAFFLES~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18501~^~1800~^~KELLOGG, KELLOG'S NUTRI-GRAIN CEREAL BARS, Mixed Berry~^~KELLOGG,KELLOGG'S NUTRI-GRAIN CRL BARS,MXD BERRY~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18502~^~1800~^~LENDER'S Big'N Crusty Blueberry Bagel~^~LENDER'S BIG'N CRUSTY BLUEBERRY BAGEL~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18503~^~1800~^~LENDER'S Premium Refrigerated Blueberry Bagels~^~LENDER'S PREMIUM REFR BLUEBERRY BAGELS~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18504~^~1800~^~LENDER'S Bagel Shop Blueberry Bagels~^~LENDER'S BAGEL SHOP BLUEBERRY BAGELS~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18505~^~1800~^~KELLOGG'S Eggo Lowfat Homestyle Waffles~^~KELLOGG'S EGGO LOWFAT HOMESTYLE WAFFLES~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18506~^~1800~^~KELLOGG'S Eggo Lowfat Nutri-Grain Waffles~^~KELLOGG'S EGGO LOWFAT NUTRI - GRAIN WAFFLES~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18507~^~1800~^~KELLOGG'S Eggo Lowfat Blueberry Nutri-Grain Waffles~^~KELLOGG'S EGGO LOWFAT BLUEBERRY NUTRI - GRAIN WAFFLES~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18508~^~1800~^~KELLOGG'S Pop-Tarts Pastry Swirls, Apple Cinnamon Danish~^~KELLOGG'S POP-TARTS PASTRY SWIRLS,APPL CINN DANISH~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18509~^~1800~^~KELLOGG'S Pop-Tarts Pastry Swirls, Strawberry Danish~^~KELLOGG'S POP-TARTS PASTRY SWIRLS,STRAWBERRY DANISH~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18510~^~1800~^~KELLOGG'S Pop-Tarts Pastry Swirls, Cheese Danish~^~KELLOGG'S POP-TARTS PASTRY SWIRLS,CHS DANISH~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18512~^~1800~^~KELLOGG'S Eggo Golden Oat Waffles~^~KELLOGG'S EGGO GOLDEN OAT WAFFLES~^~~^~Kellogg, Co.~^~~^~~^0^~~^^^^
+~18513~^~1800~^~ARCHWAY Home Style Cookies, Sugar Free Oatmeal~^~ARCHWAY HOME STYLE COOKIES,SUGAR FREE OATMEAL~^~~^~Archway Cookies~^~~^~~^0^~~^^^^
+~18514~^~1800~^~ARCHWAY Home Style Cookies, Sugar Free Rocky Road~^~ARCHWAY HOME STYLE COOKIES,SUGAR FREE ROCKY ROAD~^~~^~Archway Cookies~^~~^~~^0^~~^^^^
+~18515~^~1800~^~ARCHWAY Home Style Cookies, Sugar Free Shortbread~^~ARCHWAY HOME STYLE COOKIES,SUGAR FREE SHORTBREAD~^~~^~Archway Cookies~^~~^~~^0^~~^^^^
+~18516~^~1800~^~ARCHWAY Home Style Cookies, Apple Filled Oatmeal~^~ARCHWAY HOME STYLE COOKIES,APPL FILLED OATMEAL~^~~^~Archway Cookies~^~~^~~^0^~~^^^^
+~18562~^~1800~^~ARCHWAY Home Style Cookies, Reduced Fat Ginger Snaps~^~ARCHWAY HOME STYLE COOKIES,RED FAT GINGER SNAPS~^~~^~Archway Cookies~^~~^~~^0^~~^^^^
+~18563~^~1800~^~ARCHWAY Home Style Cookies, Gourmet Rocky Road~^~ARCHWAY HOME STYLE COOKIES,GOURMET ROCKY ROAD~^~~^~Archway Cookies~^~~^~~^0^~~^^^^
+~18564~^~1800~^~ARCHWAY Home Style Cookies, Gourmet Ruth's Golden Oatmeal~^~ARCHWAY HOME STYLE COOKIES,GOURMET RUTH'S GOLDEN OATMEAL~^~~^~Archway Cookies~^~~^~~^0^~~^^^^
+~18565~^~1800~^~ARCHWAY Home Style Cookies, Sugar Free Chocolate Chip~^~ARCHWAY HOME STYLE COOKIES,SUGAR FREE CHOC CHIP~^~~^~Archway Cookies~^~~^~~^0^~~^^^^
+~18567~^~1800~^~KRAFT, STOVE TOP Stuffing Mix Chicken Flavor~^~KRAFT,STOVE TOP STUFFING MIX CHICKEN FLAVOR~^~~^~~^~~^~~^0^~~^^^^
+~18600~^~1800~^~CONAGRA, BANQUET Apple Pie, frozen, ready to bake~^~CONAGRA,BANQUET APPL PIE,FRZ,READY TO BAKE~^~~^~Conagra, Inc.~^~~^~~^0^~~^^^^
+~18601~^~1800~^~GENERAL MILLS, BETTY CROCKER Wild Blueberry Muffin Mix, dry~^~GENERAL MILLS,BETTY CROCKER WILD BLUEBERRY MUFFIN MIX,DRY~^~~^~General Mills Inc.~^~~^~~^0^~~^^^^
+~18602~^~1800~^~GENERAL MILLS, BETTY CROCKER SUPERMOIST PARTY CAKE, SWIRL Cake Mix, dry~^~CAKE,BETTY CROCKER,SUPERMOIST PARTY CAKE SWIRL,DRY MIX~^~~^~General Mills Inc.~^~~^~~^0^~~^^^^
+~18605~^~1800~^~GENERAL MILLS, GOLD MEDAL Imitation Blueberry Muffin  Mix, dry~^~GENERAL MILLS,GOLD MEDAL IMITATION BLUEBERRY MUFFIN MIX,DRY~^~~^~General Mills Inc.~^~~^~~^0^~~^^^^
+~18606~^~1800~^~INTERSTATE BRANDS CORP, HOSTESS DING DONGS Chocolate Snack Cake, Creme Filling~^~INTERST BRNDS CRP,HOSTESS DING DONGS CHOC SNACK CKE,CRM FILL~^~~^~Interstate Bakeries Corporation~^~~^~~^0^~~^^^^
+~18608~^~1800~^~KEEBLER, KEEBLER Chocolate Graham SELECTS~^~KEEBLER,KEEBLER CHOC GRAHAM SELECTS~^~~^~Keebler, Co.~^~~^~~^0^~~^^^^
+~18609~^~1800~^~KEEBLER, KEEBLER GOLDEN Vanilla Wafers, Artificially Flavored~^~KEEBLER,KEEBLER GOLDEN VANILLA WAFERS,ARTIFICIALLY FLAV~^~~^~Keebler, Co.~^~~^~~^0^~~^^^^
+~18610~^~1800~^~CONTINENTAL MILLS, KRUSTEAZ Almond Poppyseed Muffin Mix, Artificially Flavored, dry~^~KRUSTEAZ ALMND POPPYSD MUFF MIX,ARTIFIC FLAV,DRY~^~~^~Continental Mills, Inc.~^~~^~~^0^~~^^^^
+~18611~^~1800~^~CONTINENTAL MILLS, KRUSTEAZ Buttermilk Mini Pancakes, frozen, ready to microwave~^~KRUSTEAZ BTTRMLK MINI PANCAKES,FRZ,READY TO MICROWAVE~^~~^~Continental Mills, Inc.~^~~^~~^0^~~^^^^
+~18612~^~1800~^~MCKEE BAKING, LITTLE DEBBIE NUTTY BARS, Wafers with Peanut Butter, Chocolate Covered~^~MCKEE BAKING,LITTL DEBBI NUT BAR,WAFER W/PNUT BUTE,CHOC COVE~^~~^~McKee Baking, Co.~^~~^~~^0^~~^^^^
+~18626~^~1800~^~PEPPERIDGE FARM Classic Style Croutons, seasoned~^~PEPPERIDGE FARM CLASSIC STYLE CROUTONS,SEASONED~^~~^~Campbell Soup Co.~^~~^~~^0^~~^^^^
+~18627~^~1800~^~PEPPERIDGE FARM Crusty Italian Bread, Garlic~^~PEPPERIDGE FARM CRUSTY ITALIAN BREAD,GARLIC~^~~^~Campbell Soup Co.~^~~^~~^0^~~^^^^
+~18628~^~1800~^~PEPPERIDGE FARM Apple Turnovers, frozen, ready to bake~^~PEPPERIDGE FARM APPL TURNOVERS,FRZ,READY TO BAKE~^~~^~Pepperridge Farm, Inc.~^~~^~~^0^~~^^^^
+~18629~^~1800~^~PILLSBURY Buttermilk Biscuits, Artificial Flavor, refrigerated dough~^~PILLSBURY BTTRMLK BISCUITS,ART FLAVOR,REFR DOUGH~^~~^~Pillsbury Co.~^~~^~~^0^~~^^^^
+~18630~^~1800~^~PILLSBURY, Chocolate Chip Cookies, refrigerated dough~^~PILLSBURY,CHOC CHIP COOKIES,REFR DOUGH~^~~^~Pillsbury Co.~^~~^~~^0^~~^^^^
+~18631~^~1800~^~PILLSBURY, Crusty French Loaf, refrigerated dough~^~PILLSBURY,CRUSTY FRENCH LOAF,REFR DOUGH~^~~^~Pillsbury Co.~^~~^~~^0^~~^^^^
+~18632~^~1800~^~PILLSBURY, Traditional Fudge Brownie Mix, dry~^~PILLSBURY,TRADITIONAL FUDGE BROWNIE MIX,DRY~^~~^~Pillsbury Co.~^~~^~~^0^~~^^^^
+~18633~^~1800~^~PILLSBURY GRANDS Buttermilk Biscuits, refrigerated dough~^~PILLSBURY GRANDS BTTRMLK BISCUITS,REFR DOUGH~^~~^~Pillsbury Co.~^~~^~~^0^~~^^^^
+~18634~^~1800~^~PILLSBURY HUNGRY JACK Buttermilk Biscuits, Artificial Flavor, refrigerated dough~^~PILLSBURY HUNGRY JACK BTTRMLK BISCUITS,ART FLAVOR,REFR DOUGH~^~~^~Pillsbury Co.~^~~^~~^0^~~^^^^
+~18635~^~1800~^~PILLSBURY Cinnamon Rolls with Icing, refrigerated dough~^~PILLSBURY CINN ROLLS W/ICING,REFR DOUGH~^~~^~Pillsbury Co.~^~~^~~^0^~~^^^^
+~18636~^~1800~^~HIDDEN VALLEY RANCH, SALAD CRISPINS Italian Style, Parmesan Croutons~^~HIDDEN VALLEY RANCH,SALAD CRISPINS ITAL STYLE,PARMES CROUTON~^~~^~Hidden Valley Ranch Food Products, Inc.~^~~^~~^0^~~^^^^
+~18637~^~1800~^~KRAFT FOODS, SHAKE 'N' BAKE ORIGINAL RECIPE, Coating for Pork, dry~^~KRAFT FOODS,SHAKE 'N' BAKE ORIG RECIPE,COATING FOR PORK,DRY~^~~^~Kraft Foods, Inc.~^~~^~~^0^~~^^^^
+~18640~^~1800~^~HEINZ, WEIGHT WATCHERS Chocolate Eclairs, frozen~^~HEINZ,WEIGHT WATCHERS CHOC ECLAIRS,FRZ~^~~^~H.J. Heinz, Co.~^~~^~~^0^~~^^^^
+~18642~^~1800~^~GENERAL MILLS, BETTY CROCKER SUPERMOIST Yellow Cake Mix, dry~^~GENERAL MILLS,BETTY CROCKER SUPERMOIST YEL CAKE MIX,DRY~^~~^~General Mills Inc.~^~~^~~^0^~~^^^^
+~18643~^~1800~^~QUAKER OATS, AUNT JEMIMA Original Waffles, frozen~^~QUAKER OATS,AUNT JEMIMA ORIGINAL WAFFLES,FRZ~^~~^~The Quaker Oats, Co.~^~~^~~^0^~~^^^^
+~19031~^~2500~^~Snacks, oriental mix, rice-based~^~ORIENTAL MIX,RICE-BASED~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19061~^~2500~^~Snacks, trail mix, tropical~^~TRAIL MIX,TROPICAL~^~~^~~^~~^~~^0^~~^0.00^^^
+~19070~^~1900~^~Candies, butterscotch~^~CANDIES,BUTTERSCOTCH~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19087~^~1900~^~Sweets, candies, confectioner's coating, white~^~CANDIES,CONFECTIONER'S COATING,WHITE~^~white chocolate~^~~^~Y~^~~^0^~~^6.38^4.30^8.80^3.90
+~19099~^~1900~^~Candies, fondant, prepared-from-recipe~^~CANDIES,FONDANT,PREPARED-FROM-RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19100~^~1900~^~Candies, fudge, chocolate, prepared-from-recipe~^~CANDIES,FUDGE,CHOC,PREPARED-FROM-RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19101~^~1900~^~Candies, fudge, chocolate, with nuts, prepared-from-recipe~^~CANDIES,FUDGE,CHOC,W/NUTS,PREPARED-FROM-RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19103~^~1900~^~Candies, fudge, vanilla, prepared-from-recipe~^~CANDIES,FUDGE,VANILLA,PREPARED-FROM-RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19104~^~1900~^~Candies, fudge, vanilla, with nuts, prepared-from-recipe~^~CANDIES,FUDGE,VANILLA,W/NUTS,PREPARED-FROM-RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19108~^~1900~^~Candies, jellybeans~^~CANDIES,JELLYBEANS~^~~^~~^~Y~^~~^0^~~^6.25^^8.80^3.90
+~19113~^~1900~^~Syrups, table blends, pancake, with butter~^~SYRUPS,TABLE BLENDS,PANCAKE,W/BUTTER~^~~^~~^~~^~~^0^~~^0.00^^^
+~19121~^~1900~^~Desserts, puddings, banana, dry mix, instant, prepared with 2% milk~^~DESSERTS,PUDD,BANANA,DRY MIX,INST,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19122~^~1900~^~Desserts, puddings, banana, dry mix, regular, prepared with 2% milk~^~DESSERTS,PUDD,BANANA,DRY MIX,REG,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19123~^~1900~^~Desserts, puddings, chocolate, dry mix, instant, prepared with 2% milk~^~DESSERTS,PUDD,CHOC,DRY MIX,INST,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19128~^~1900~^~Syrups, table blends, pancake, reduced-calorie~^~SYRUPS,TABLE BLENDS,PANCAKE,RED-CAL~^~~^~~^~Y~^~~^0^~~^6.25^^^3.70
+~19148~^~1900~^~Candies, peanut brittle, prepared-from-recipe~^~CANDIES,PNUT BRITTLE,PREPARED-FROM-RECIPE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19166~^~1900~^~Cocoa, dry powder, unsweetened, processed with alkali~^~COCOA,DRY PDR,UNSWTND,PROC W/ALKALI~^~Dutch cocoa~^~~^~Y~^~~^0^~~^5.63^1.83^8.37^1.33
+~19170~^~1900~^~Desserts, egg custards, dry mix, prepared with whole milk~^~DESSERTS,EGG CUSTARDS,DRY MIX,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19173~^~1900~^~Desserts, gelatins, dry mix, prepared with water~^~DESSERTS,GELATINS,DRY MIX,PREP W/H2O~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19176~^~1900~^~Desserts, gelatins, dry mix, reduced calorie, with aspartame, prepared with water~^~DESSERTS,GELATINS,DRY MIX,RED CAL,W/ASPRT,PREP W/H2O~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19177~^~1900~^~Desserts, gelatins, dry powder, unsweetened~^~DESSERTS,GELATINS,DRY PDR,UNSWTND~^~~^~~^~Y~^~~^0^~~^5.55^3.90^9.02^
+~19189~^~1900~^~Desserts, puddings, chocolate, dry mix, regular, prepared with whole milk~^~DESSERTS,PUDD,CHOC,DRY MIX,REG,PREP W/WHL MILK~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19190~^~1900~^~Desserts, puddings, chocolate, dry mix, regular, prepared with 2% milk~^~DESSERTS,PUDD,CHOC,DRY MIX,REG,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19191~^~1900~^~Desserts, puddings, coconut cream, dry mix, instant, prepared with 2% milk~^~DESSERTS,PUDD,COCNT CRM,DRY MIX,INST,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19195~^~1900~^~Desserts, puddings, rice, dry mix, prepared with whole milk~^~DESSERTS,PUDD,RICE,DRY MIX,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19199~^~1900~^~Desserts, puddings, tapioca, dry mix, prepared with whole milk~^~DESSERTS,PUDD,TAPIOCA,DRY MIX,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19204~^~1900~^~Desserts, puddings, lemon, dry mix, instant, prepared with 2% milk~^~DESSERTS,PUDD,LEMON,DRY MIX,INST,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19205~^~1900~^~Desserts, egg custards, dry mix, prepared with 2% milk~^~DESSERTS,EGG CUSTARDS,DRY MIX,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19207~^~1900~^~Desserts, puddings, vanilla, dry mix, regular, prepared with whole milk~^~DESSERTS,PUDD,VANILLA,DRY MIX,REG,PREP W/WHL MILK~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19208~^~1900~^~Desserts, puddings, rice, dry mix, prepared with 2% milk~^~DESSERTS,PUDD,RICE,DRY MIX,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19209~^~1900~^~Desserts, puddings, tapioca, dry mix, prepared with 2% milk~^~DESSERTS,PUDD,TAPIOCA,DRY MIX,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19212~^~1900~^~Desserts, puddings, vanilla, dry mix, regular, prepared with 2% milk~^~DESSERTS,PUDD,VANILLA,DRY MIX,REG,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19213~^~1900~^~Desserts, rennin, chocolate, dry mix, prepared with 2% milk~^~DESSERTS,RENNIN,CHOC,DRY MIX,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19214~^~1900~^~Desserts, rennin, vanilla, dry mix, prepared with 2% milk~^~DESSERTS,RENNIN,VANILLA,DRY MIX,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19219~^~1900~^~Desserts, puddings, coconut cream, dry mix, regular, prepared with 2% milk~^~DESSERTS,PUDD,COCNT CRM,DRY MIX,REG,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19221~^~1900~^~Desserts, rennin, chocolate, dry mix, prepared with whole milk~^~DESSERTS,RENNIN,CHOC,DRY MIX,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19223~^~1900~^~Desserts, rennin, vanilla, dry mix, prepared with whole milk~^~DESSERTS,RENNIN,VANILLA,DRY MIX,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19231~^~1900~^~Desserts, flan, caramel custard, dry mix, prepared with 2% milk~^~DESSERTS,FLAN,CARAMEL CUSTARD,DRY MIX,PREP W/2% MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19232~^~1900~^~Desserts, flan, caramel custard, dry mix, prepared with whole milk~^~DESSERTS,FLAN,CARAMEL CUSTARD,DRY MIX,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19241~^~1900~^~Frostings, chocolate, creamy, dry mix, prepared with butter~^~FROSTINGS,CHOC,CREAMY,DRY MIX,PREP W/BUTTER~^~~^~~^~~^~~^0^~~^0.00^^^
+~19245~^~1900~^~Frostings, vanilla, creamy, dry mix, prepared with butter~^~FROSTINGS,VANILLA,CREAMY,DRY MIX,PREP W/BUTTER~^~~^~~^~~^~~^0^~~^0.00^^^
+~19247~^~1900~^~Frostings, white, fluffy, dry mix, prepared with water~^~FROSTINGS,WHITE,FLUFFY,DRY MIX,PREP W/H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~19269~^~2500~^~Snacks, GENERAL MILLS, BETTY CROCKER Fruit Roll Ups, berry flavored, with vitamin C~^~SNACKS,GENERAL MILLS,BETTY CROCKER FRT RL UPS,BRY FLV,W/VT C~^~~^~~^~~^~~^0^~~^^4.00^9.00^4.00
+~19272~^~2500~^~Snacks, FARLEY CANDY, FARLEY Fruit Snacks, with vitamins A, C, and E~^~SNACKS,FARLEY CANDY,FARLEY FRUIT SNACKS,W/VITAMINS A,C,&E~^~~^~~^~~^~~^0^~~^^4.00^9.00^4.00
+~19273~^~2500~^~Snacks, SUNKIST, SUNKIST Fruit Roll, strawberry, with vitamins A, C, and E~^~SNACKS,SUNKIST,SUNKIST FRUIT ROLL,STRAWBERRY,W/VITMNS A,C,&E~^~~^~~^~~^~~^0^~~^^4.00^9.00^4.00
+~19283~^~1900~^~Frozen desserts, ice pops~^~FROZEN DESSERTS,ICE POPS~^~~^~~^~Y~^~~^0^~~^6.25^^^3.80
+~19301~^~1900~^~Candies, fudge, chocolate marshmallow, with nuts, prepared-from-recipe~^~CANDIES,FUDGE,CHOC MARSHMLLW,W/NUTS,PREPARED-FROM-RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~19304~^~1900~^~Molasses~^~MOLASSES~^~~^~~^~Y~^~~^0^~~^6.25^^8.37^3.87
+~19305~^~1900~^~Molasses, blackstrap~^~MOLASSES,BLACKSTRAP~^~~^~~^~~^~~^0^~~^6.25^^8.37^3.87
+~19310~^~1900~^~Pectin, unsweetened, dry mix~^~PECTIN,UNSWTND,DRY MIX~^~~^~~^~~^~~^0^~~^6.25^^^3.60
+~19319~^~1900~^~Desserts, puddings, banana, dry mix, instant, prepared with whole milk~^~DESSERTS,PUDD,BANANA,DRY MIX,INST,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19321~^~1900~^~Desserts, puddings, banana, dry mix, regular, prepared with whole milk~^~DESSERTS,PUDD,BANANA,DRY MIX,REG,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19323~^~1900~^~Desserts, puddings, coconut cream, dry mix, instant, prepared with whole milk~^~DESSERTS,PUDD,COCNT CRM,DRY MIX,INST,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19325~^~1900~^~Desserts, puddings, coconut cream, dry mix, regular, prepared with whole milk~^~DESSERTS,PUDD,COCNT CRM,DRY MIX,REG,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19331~^~1900~^~Desserts, puddings, lemon, dry mix, instant, prepared with whole milk~^~DESSERTS,PUDD,LEMON,DRY MIX,INST,PREP W/WHL MILK~^~~^~~^~~^~~^0^~~^0.00^^^
+~19333~^~1900~^~Desserts, puddings, lemon, dry mix, regular, prepared with sugar, egg yolk and water~^~DESSERTS,PUDD,LEMON,DRY MIX,REG,PREP W/SUGAR,EGG YOLK&H2O~^~~^~~^~~^~~^0^~~^0.00^^^
+~19334~^~1900~^~Sugars, brown~^~SUGARS,BROWN~^~~^~~^~Y~^~~^0^~~^6.25^^^3.87
+~19335~^~1900~^~Sugars, granulated~^~SUGARS,GRANULATED~^~~^~~^~Y~^~~^0^~~^6.25^^^3.87
+~19349~^~1900~^~Syrups, corn, dark~^~SYRUPS,CORN,DARK~^~~^~~^~Y~^~~^0^~~^6.25^^^3.68
+~19350~^~1900~^~Syrups, corn, light~^~SYRUPS,CORN,LIGHT~^~~^~~^~Y~^~~^0^~~^6.25^^^3.68
+~19351~^~1900~^~Syrups, corn, high-fructose~^~SYRUPS,CORN,HIGH-FRUCTOSE~^~~^~~^~Y~^~~^0^~~^6.25^^^3.70
+~19355~^~1900~^~Syrups, sorghum~^~SYRUPS,SORGHUM~^~~^~~^~Y~^~~^0^~~^6.25^^^3.87
+~19361~^~1900~^~Syrups, table blends, cane and 15% maple~^~SYRUPS,TABLE BLENDS,CANE&15% MAPLE~^~~^~~^~Y~^~~^0^~~^0.00^^^
+~19371~^~1900~^~Frostings, vanilla, creamy, dry mix, prepared with margarine~^~FROSTINGS,VANILLA,CREAMY,DRY MIX,PREP W/MARGARINE~^~~^~~^~~^~~^0^~~^0.00^^^
+~19372~^~1900~^~Frostings, chocolate, creamy, dry mix, prepared with margarine~^~FROSTINGS,CHOC,CREAMY,DRY MIX,PREP W/MARGARINE~^~~^~~^~~^~~^0^~~^0.00^^^
+~19375~^~1900~^~Frostings, glaze, prepared-from-recipe~^~FROSTINGS,GLAZE,PREPARED-FROM-RECIPE~^~~^~~^~~^~~^0^~~^0.00^^^
+~19407~^~2500~^~Snacks, beef sticks, smoked~^~SNACKS,BF STKS,SMOKED~^~~^~~^~~^~~^0^~~^6.20^4.10^9.00^2.90
+~19422~^~2500~^~Snacks, potato chips, reduced fat~^~SNACKS,POTATO CHIPS,RED FAT~^~~^~~^~Y~^~~^0^~~^6.25^2.80^8.80^4.00
+~19424~^~2500~^~Snacks, tortilla chips, nacho-flavor, reduced fat~^~SNACKS,TORTILLA CHIPS,NACHO-FLAVOR,RED FAT~^~~^~~^~~^~~^0^~~^6.30^2.90^8.80^4.00
+~19717~^~1900~^~Frozen desserts, ice pops, with added ascorbic acid~^~FROZEN DSSRT,ICE POPS,W/ VIT C~^~~^~~^~~^~~^0^~~^6.25^^^3.80
+~19814~^~2500~^~Snacks, pretzels, hard, plain, made with enriched flour, unsalted~^~SNACKS,PRETZELS,HARD,PLN,MADE W/ ENR FLR,UNSALTED~^~~^~~^~Y~^~~^0^~~^5.70^3.70^8.70^4.00
+~20009~^~2000~^~Buckwheat groats, roasted, dry~^~BUCKWHEAT GROATS,RSTD,DRY~^~kasha~^~~^~~^~~^0^~~^6.25^3.37^8.37^3.78
+~20010~^~2000~^~Buckwheat groats, roasted, cooked~^~BUCKWHEAT GROATS,RSTD,CKD~^~kasha~^~~^~Y~^~~^0^~~^6.25^3.37^8.37^3.78
+~20099~^~2000~^~Macaroni, dry, enriched~^~MACARONI,DRY,ENR~^~~^~~^~Y~^~~^0^~~^5.70^3.91^8.37^4.12
+~21002~^~2100~^~Fast foods, biscuit, with egg~^~FAST FOODS  BISCUIT  W/ EGG~^~~^~~^~~^~~^0^~~^^^^
+~22005~^~2200~^~KRAFT Macaroni and Cheese Dinner Original Flavor, unprepared~^~KRAFT MACARONI & CHEESE DINNER ORIGINAL FLAVOR,UNPREP~^~~^~~^~~^~~^0^~~^^^^
+~22531~^~2100~^~TOTINO'S PIZZA ROLLS Pizza Snacks, Hamburger, frozen~^~TOTINO'S PIZZA ROLLS PIZZA SNACKS,HAMBURGER,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22532~^~2100~^~TOTINO'S PIZZA ROLLS Pizza Snacks, Sausage, frozen~^~TOTINO'S PIZZA ROLLS PIZZA SNACKS,SAUSAGE,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22533~^~2100~^~TOTINO'S PIZZA ROLLS Pizza Snacks, Pepperoni. frozen~^~TOTINO'S PIZZA ROLLS PIZZA SNACKS,PEPPERONI. FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22536~^~2100~^~HOT POCKETS Pepperoni Pizza Stuffed Sandwich, frozen~^~HOT POCKETS PEPPERONI PIZZA STUFFED SNDWCH,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22542~^~2100~^~CELESTE Deluxe Pizza with Sausage, Green & Red Peppers & Mushrooms, frozen~^~CELESTE DELUXE PIZZA W/SAUSAGE,GRN&RED PEPPERS&MUSHROOMS,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22543~^~2100~^~JACK'S GREAT COMBINATIONS Sausage & Pepperoni Pizza, frozen~^~JACK'S GREAT COMBINATIONS SAUSAGE&PEPPERONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22544~^~2100~^~JACK'S ORIGINAL Pepperoni Pizza, frozen~^~JACK'S ORIGINAL PEPPERONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22545~^~2100~^~JENO'S CRISP 'N TASTY Combination Pizza, Sausage & Pepperoni, frozen~^~JENO'S CRISP 'N TASTY COMBINATION PIZZA,SAUSGE&PEPPERONI,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22546~^~2100~^~JENO'S CRISP 'N TASTY Pepperoni Pizza, frozen~^~JENO'S CRISP 'N TASTY PEPPERONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22548~^~2100~^~PAPPALO'S FOR ONE, Deep Dish Pepperoni Pizza, frozen~^~PAPPALO'S FOR ONE,DEEP DISH PEPPERONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22549~^~2100~^~RED BARON Pepperoni Pizza, frozen~^~RED BARON PEPPERONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22550~^~2100~^~RED BARON Special Deluxe Pizza, Two Cheeses, Sausage, Pepperoni & Onions, frozen~^~RED BARON SPL DELUXE PIZZA,TWO CHS,SAUSAGE,PEPPRONI&ONS,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22551~^~2100~^~RED BARON Premium Deep Dish Singles, Pepperoni Pizza, frozen~^~RED BARON PREMIUM DEEP DISH SINGLES,PEPPERONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22553~^~2100~^~STOUFFER'S French Bread Pizza with Sausage & Pepperoni, frozen~^~STOUFFER'S FRENCH BREAD PIZZA W/SAUSAGE&PEPPERONI,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22554~^~2100~^~STOUFFER'S Deluxe French Bread Pizza with Sausage, Pepperoni & Mushroom, frozen~^~STOUFFER'S DELUX FRENCH BREAD PIZZA W/SSG,PEPRONI&MUSHRM,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22555~^~2100~^~TOMBSTONE Original Pepperoni Pizza, frozen, 9 inch~^~TOMBSTONE ORIGINAL PEPPERONI PIZZA,FRZ,9 INCH~^~~^~~^~~^~~^0^~~^^^^
+~22556~^~2100~^~TOMBSTONE Original Pepperoni Pizza, frozen, 12 inch~^~TOMBSTONE ORIGINAL PEPPERONI PIZZA,FRZ,12 INCH~^~~^~~^~~^~~^0^~~^^^^
+~22557~^~2100~^~TOMBSTONE Original Sausage & Mushroom Pizza, frozen~^~TOMBSTONE ORIGINAL SAUSAGE&MUSHROOM PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22559~^~2100~^~TOMBSTONE Original Sausage & Pepperoni Pizza, frozen~^~TOMBSTONE ORIGINAL SAUSAGE&PEPPERONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22560~^~2100~^~TOMBSTONE Original Pepperoni & Sausage Pizza, frozen~^~TOMBSTONE ORIGINAL PEPPERONI&SAUSAGE PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22561~^~2100~^~TONY'S Supreme Pizza, Italian Style Pastry Crust, Sausage, Pepperoni, Mushrooms, Green Peppers, Red Peppers, Onions, frozen~^~TONY'S SUPREME PIZZA,SSG,PEPRONI,MSHRM,GRN&RED PEP,ON,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22562~^~2100~^~TONY'S Pepperoni Pizza with Italian Style Pastry Crust, frozen~^~TONY'S PEPPERONI PIZZA W/ITALIAN STYLE PASTRY CRUST,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22563~^~2100~^~TONY'S Sausage & Pepperoni Pizza with Italian Style Pastry Crust, frozen~^~TONY'S SAUSAGE&PEPPERONI PIZZA W/ITAL STYLE PASTRY CRUST,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22564~^~2100~^~TONY'S Taco Style Pizza, Mexican Style Sausage & Tangy Taco Sauce on a Corn Style Crust, frozen~^~TONY'S TACO STY PIZZA,MEX STY SSG&TACO SAU,CORN STY CRST,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22565~^~2100~^~TONY'S D'PRIMO Deep Dish Sausage Pizza, frozen~^~TONY'S D'PRIMO DEEP DISH SAUSAGE PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22566~^~2100~^~TOTINO'S PARTY PIZZA Crisp Crust Combination Sausage and Pepperoni Pizza, frozen~^~TOTINO'S PARTY PIZZA CRISP CRUST COMB SSG&PEPRONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22568~^~2100~^~TOTINO'S PARTY PIZZA Crisp Crust Pepperoni, frozen~^~TOTINO'S PARTY PIZZA CRISP CRUST PEPPERONI,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22598~^~2100~^~RED BARON Supreme Pizza, Sausage, Mushrooms, Pepperoni, frozen~^~RED BARON SUPREME PIZZA,SAUSAGE,MUSHROOMS,PEPPERONI,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22902~^~2100~^~Sausage and pepperoni pizza, frozen~^~SAUSAGE&PEPPERONI PIZZA,FRZ~^~~^~~^~~^~~^0^~~^^^^
+~22903~^~2100~^~Pepperoni pizza, frozen~^~PEPPERONI PIZZA,FROZEN~^~~^~~^~~^~~^0^~~^^^^

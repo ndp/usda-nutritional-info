@@ -1,0 +1,31 @@
+~209~^~g~^~STARCH~^~Starch~
+~210~^~g~^~SUCS~^~Sucrose~
+~211~^~g~^~GLUS~^~Glucose (dextrose)~
+~212~^~g~^~FRUS~^~Fructose~
+~213~^~g~^~LACS~^~Lactose~
+~214~^~g~^~MALS~^~Maltose~
+~287~^~g~^~GALS~^~Galactose~
+~323~^~mg~^~TOCPHA~^~Tocopherol, alpha~
+~341~^~mg~^~TOCPHB~^~Tocopherol, beta~
+~342~^~mg~^~TOCPHG~^~Tocopherol, gamma~
+~343~^~mg~^~TOCPHD~^~Tocopherol, delta~
+~431~^~mcg~^~FOLAC~^~Folic acid~
+~432~^~mcg~^~FOLFD~^~Folate, food~
+~435~^~mcg_DFE~^~FOLDFE~^~Folate, DFE~
+~605~^~g~^~FATRN~^~Fatty acids, total trans~
+~638~^~mg~^~STID7~^~Stigmasterol~
+~639~^~mg~^~CAMD5~^~Campesterol~
+~641~^~mg~^~SITSTR~^~Beta-sitosterol~
+~662~^~g~^~F16D1T~^~16:1 t~
+~663~^~g~^~F18D1T~^~18:1 t~
+~666~^~g~^~~^~18:2 i~
+~671~^~g~^~F24D1C~^~24:1 c~
+~672~^~g~^~F20D2CN6~^~20:2 n-6 c,c~
+~673~^~g~^~F16D1C~^~16:1 c~
+~674~^~g~^~F18D1C~^~18:1 c~
+~675~^~g~^~F18D2CN6~^~18:2 n-6 c,c~
+~687~^~g~^~F17D1~^~17:1~
+~689~^~g~^~F20D3~^~20:3 undifferentiated~
+~693~^~g~^~FATRNM~^~Fatty acids, total trans-monoenoic~
+~696~^~g~^~F13D0~^~13:0~
+~851~^~g~^~F18D3CN3~^~18:3 n-3 c,c,c~

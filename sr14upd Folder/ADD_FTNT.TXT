@@ -1,0 +1,3 @@
+~02030~^~01~^~N~^~204~^~Total proximates do not equal 100% because piperine was subtracted from lipid value.~
+~02032~^~01~^~N~^~204~^~Total proximates do not equal 100% because piperine was subtracted from lipid value.~
+

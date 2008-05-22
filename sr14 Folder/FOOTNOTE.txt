@@ -1,0 +1,116 @@
+~02030~^~01~^~N~^~204~^~Total proximates do not equal 100% because piperine was subtracted from lipid value.~
+~02032~^~01~^~N~^~204~^~Total proximates do not equal 100% because piperine was subtracted from lipid value.~
+~02063~^~01~^~D~^^~Leaf~
+~02064~^~01~^~D~^^~Leaf~
+~02065~^~01~^~D~^^~Leaf~
+~02066~^~01~^~D~^^~Leaf~
+~03044~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03044~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03050~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03050~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03053~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03053~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03054~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03054~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03069~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03069~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03073~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03073~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03082~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03082~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03083~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03083~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03084~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03084~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03085~^~01~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03085~^~02~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~04011~^~01~^~N~^~205~^~Contains other proximate components.~
+~04012~^~01~^~N~^~205~^~Contains other proximate components.~
+~04013~^~01~^~N~^~205~^~Contains other proximate components.~
+~04014~^~01~^~N~^~205~^~Contains other proximate components.~
+~04115~^~01~^~N~^~205~^~Contains other proximate components.~
+~04116~^~01~^~N~^~205~^~Contains other proximate components.~
+~04117~^~01~^~N~^~205~^~Contains other proximate components.~
+~04118~^~01~^~N~^~205~^~Contains other proximate components.~
+~04119~^~01~^~N~^~205~^~Contains other proximate components.~
+~04121~^~01~^~N~^~205~^~Contains other proximate components.~
+~05315~^~01~^~D~^^~Pieces, skin side down, seared 13 minutes; roasted at 350 degrees F, 17 minutes to 165 degrees  F~
+~05315~^~02~^~N~^~204~^~Data from the Duckling Council and a USDA contract~
+~05315~^~03~^~N~^~601~^~Data from the Duckling Council and a USDA contract~
+~05316~^~01~^~D~^^~Skinless pieces, charbroiled 12 minutes to  165 degrees F~
+~05316~^~02~^~N~^~204~^~Data from the Duckling Council and a USDA contract~
+~05316~^~03~^~N~^~601~^~Data from the Duckling Council and a USDA contract~
+~05317~^~01~^~D~^^~Pieces with skin, seared 13 minutes, roasted at 350 degrees F, 60 minutes to 185 degrees F~
+~05317~^~02~^~N~^~204~^~Data from the Duckling Council and a USDA contract~
+~05317~^~03~^~N~^~601~^~Data from the Duckling Council and a USDA contract~
+~05318~^~01~^~D~^^~Skinless pieces, covered and braised at 350 degrees F, 55 minutes to 185 degrees F~
+~05318~^~02~^~N~^~204~^~Data from the Duckling Council and a USDA contract~
+~05318~^~03~^~N~^~601~^~Data from the Duckling Council and a USDA contract~
+~06307~^~01~^~N~^~205~^~Contains other proximate components.~
+~06308~^~01~^~N~^~205~^~Contains other proximate components.~
+~08323~^~01~^~D~^^~PEBBLES is a registered trademark of Hanna-Barbera Productions, Inc., used under license.~
+~08324~^~01~^~D~^^~PEBBLES is a registered trademark of Hanna-Barbera Productions, Inc., used under license.~
+~08336~^~01~^~D~^^~OREO O'S is a trademark of Nabisco Brands Company, used under license.~
+~08336~^~02~^~N~^~205~^~Contains other proximate components.~
+~12061~^~01~^~D~^^~Unroasted~
+~12062~^~01~^~D~^^~Unroasted~
+~12065~^~01~^~D~^^~Roasted in high oleic safflower oil~
+~12120~^~01~^~D~^^~Unroasted~
+~12121~^~01~^~D~^^~Unroasted~
+~12131~^~01~^~D~^^~Unroasted~
+~12142~^~01~^~D~^^~Unroasted~
+~12144~^~01~^~D~^^~Roasted in cottonseed, peanut, soybean, or sunflower oil.~
+~12151~^~01~^~D~^^~Unroasted~
+~12155~^~01~^~D~^^~Unroasted~
+~12220~^~01~^~D~^^~Up to 12 percent flax seed can safely be used as an ingredient in food.~
+~12565~^~01~^~D~^^~Roasted in high oleic safflower oil~
+~12644~^~01~^~D~^^~Roasted in cottonseed, peanut, soybean, or sunflower oil.~
+~14127~^~01~^~N~^~205~^~Contains citric acid.~
+~14128~^~01~^~N~^~205~^~Contains citric acid.~
+~14129~^~01~^~N~^~205~^~Contains citric acid.~
+~14205~^~01~^~N~^~205~^~Contains other proximate components.~
+~14225~^~01~^~N~^~205~^~Contains other proximate components.~
+~14230~^~01~^~N~^~205~^~Contains other proximate components.~
+~14231~^~01~^~N~^~205~^~Contains other proximate components.~
+~14232~^~01~^~N~^~205~^~Contains other proximate components.~
+~14273~^~01~^~N~^~205~^~Contains other proximate components such as acids.~
+~14274~^~01~^~N~^~205~^~Contains other proximate components such as acids.~
+~14275~^~01~^~N~^~205~^~Contains other proximate components.~
+~14377~^~01~^~N~^~205~^~Contains other proximate components such as acids and non-protein nitrogen.~
+~14403~^~01~^~N~^~205~^~Contains citric acid.~
+~14404~^~01~^~N~^~205~^~Contains citric acid.~
+~16126~^~01~^~D~^^~Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu.~
+~16126~^~02~^~N~^~301~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16126~^~03~^~N~^~304~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16127~^~01~^~D~^^~Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu.~
+~16127~^~02~^~N~^~301~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16127~^~03~^~N~^~304~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16159~^~01~^~D~^^~Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu.~
+~16159~^~02~^~N~^~301~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16159~^~03~^~N~^~304~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16160~^~01~^~D~^^~Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu.~
+~16160~^~02~^~N~^~301~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16160~^~03~^~N~^~304~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~17156~^~01~^~N~^~405~^~Data represent composite of clod, ribeye, top round and top sirloin for 24 bison.~
+~17156~^~02~^~N~^~406~^~Data represent composite of clod, ribeye, top round and top sirloin for 24 bison.~
+~17266~^~01~^~N~^~208~^~Energy, as determined by bomb calorimetry, is 140.00 kcal.~
+~17267~^~01~^~N~^~208~^~Energy, as determined by bomb calorimetry, is 143.00 kcal.~
+~17268~^~01~^~N~^~208~^~Energy, as determined by bomb calorimetry, is 145.00 kcal.~
+~17269~^~01~^~N~^~208~^~Energy, as determined by bomb calorimetry, is 136.00 kcal.~
+~18505~^~01~^~M~^^~Serving equals 2 waffles~
+~18506~^~01~^~M~^^~Serving equals 2 waffles~
+~18507~^~01~^~M~^^~Serving equals 2 waffles~
+~18512~^~01~^~M~^^~Serving equals 2 waffles~
+~18567~^~01~^~M~^^~1/6 BOX (makes 1/2 cup prepared)~
+~19275~^~01~^~N~^~205~^~Contains other proximate components.~
+~19276~^~01~^~N~^~205~^~Contains other proximate components.~
+~19277~^~01~^~N~^~205~^~Contains other proximate components.~
+~19278~^~01~^~N~^~205~^~Contains other proximate components.~
+~19284~^~01~^~N~^~205~^~Contains other proximate components.~
+~19290~^~01~^~N~^~205~^~Contains other proximate components such as acids.~
+~20133~^~01~^~D~^^~Imported product~
+~20134~^~01~^~D~^^~Imported product~
+~22005~^~01~^~M~^^~2.5 ounces unprepared yields 1 serving, about 1 cup prepared~
+~22123~^~01~^~M~^^~4,464 gm foodservice package contains 43 gm patties~
+~22123~^~02~^~M~^^~312 gm retail package contains 78 gm patties.~
+
